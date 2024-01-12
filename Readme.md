@@ -86,22 +86,25 @@
 4. The Finetuned model is here  - https://huggingface.co/Sahibsingh12/phi-1-5-finetuned-cazton_complete
 
     
+# Model performance
+Our data that we had for instruction tuning consisted of nearly 1100 instruction pairs
+so I made train test spli of 20% and after fine tuning for inference because I had ground truth answers to look to I calculated **Rouge 1 score** which came out to be **0.63** while **Rouge 2 score** came out to be **0.58**.
+
+
+## Video
+
+Below is the Youtube link of the video and the MP4 video is present in video folder at 
+this ![path](https://github.com/sahibpreetsingh12/cazton_phi-1.5/blob/main/video/sahib-cazton.mp4)
+
+[![sahib](video/cazton-thumb.png)](https://youtu.be/Xf_pHr-oFyY)
+
+
 ## Refrences :-
 
 1. https://lightning.ai/pages/community/tutorial/lora-llm/
 2. https://www.youtube.com/watch?v=eC6Hd1hFvos&t=1184s
 3. https://www.youtube.com/watch?v=dA-NhCtrrVE
 4. https://github.com/Lightning-AI/lit-gpt/blob/main/tutorials/finetune_lora.md
-
-
-## Video
-[![sahib](video/cazton-thumb.png)](https://youtu.be/Xf_pHr-oFyY)
-
-
-
-# Model performance
-Our data that we had for instruction tuning consisted of nearly 1100 instruction pairs
-so I made train test spli of 20% and after fine tuning for inference because I had ground truth answers to look to I calculated **Rouge 1 score** which came out to be **0.63** while **Rouge 2 score** came out to be **0.58**.
 
 
 # Benchmarking against Zephyr7b alpha
