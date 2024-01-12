@@ -3,7 +3,7 @@
 
 ## Problem Statement - In this project we had to scrape data from cazton.com then fine tune a Open source LLM  for chat conversation
 
-## OS used : - macos and using macbook air m1
+## OS used : - macos and using macbook air m1 and kaggle notebooks for GPU
 
 ### Python packeages used :-
 1. Langchain
@@ -76,7 +76,15 @@
     
 5. tester-dataset_creation_phi.ipynb - This file is used just to handle intermediatery file operatiosn and some data formatting
     that was required. 
-    
+
+## Inference and Fientuning:
+1.  For public inference i have uploaded the fine-tuned model on https://huggingface.co/spaces/Sahibsingh12/cazton-phi
+2. The notebook for inference can be find here - https://www.kaggle.com/sahib12/inference-phi-1-5
+
+3. For Finteuning the code is present here - https://www.kaggle.com/sahib12/finetune-phi-1-5
+
+4. The Finetuned model is here  - https://huggingface.co/Sahibsingh12/phi-1-5-finetuned-cazton_complete
+
     
 ## Refrences :-
 
