@@ -98,5 +98,31 @@
 [![sahib](video/cazton-thumb.png)](https://youtu.be/Xf_pHr-oFyY)
 
 
-# Benchmarking against Zephyr
+
+# Model performance
+Our data that we had for instruction tuning consisted of nearly 1100 instruction pairs
+so I made train test spli of 20% and after fine tuning for inference because I had ground truth answers to look to I calculated **Rouge 1 score** which came out to be **0.63** while **Rouge 2 score** came out to be **0.58**.
+
+
+# Benchmarking against Zephyr7b alpha
+
+Since we build a chatmodel we had to find a metric that is suitable for evaluation on samlines and **Alpaca** came out to be metric of choice.
+This metric has 52k Instructions-following data.
+```
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+
+Below is the way the instruction for alpaca looks like
+### Instruction:
+{instruction}
+
+### Input:
+{input}
+
+### Response:
+```
+
+The only that stopped me for fintuning my model on alpaca and then give out results was 
+that it reuqired atleast one 12GB GPU(RTX 3060) and with macbook air m1 it was not possible. 
+But given compute I can easily do this because i fully understand this evaluation metric.
 
