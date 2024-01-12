@@ -94,7 +94,7 @@ so I made train test spli of 20% and after fine tuning for inference because I h
 ## Video
 
 Below is the Youtube link of the video and the MP4 video is present in video folder at 
-this ![path](https://github.com/sahibpreetsingh12/cazton_phi-1.5/blob/main/video/sahib-cazton.mp4)
+this [path]https://github.com/sahibpreetsingh12/cazton_phi-1.5/blob/main/video/sahib-cazton.mp4
 
 [![sahib](video/cazton-thumb.png)](https://youtu.be/Xf_pHr-oFyY)
 
