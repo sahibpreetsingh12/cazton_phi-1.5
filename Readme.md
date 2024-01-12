@@ -95,8 +95,7 @@
 
 
 ## Video
-<video src="https://youtu.be/Xf_pHr-oFyY" controls="controls" style="max-width: 730px;">
-</video>
+[![sahib](video/cazton-thumb.png)](https://youtu.be/Xf_pHr-oFyY)
 
 
 # Benchmarking against Zephyr
