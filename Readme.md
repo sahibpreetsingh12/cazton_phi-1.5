@@ -92,3 +92,7 @@
 2. https://www.youtube.com/watch?v=eC6Hd1hFvos&t=1184s
 3. https://www.youtube.com/watch?v=dA-NhCtrrVE
 4. https://github.com/Lightning-AI/lit-gpt/blob/main/tutorials/finetune_lora.md
+
+
+## Video
+![sahib_cazton](video/sahib-cazton.mp4)
