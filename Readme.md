@@ -99,7 +99,7 @@ this [path]https://github.com/sahibpreetsingh12/cazton_phi-1.5/blob/main/video/s
 
 Click on the Image to see the video on Youtube 👇
 
-[![sahib](video/cazton-thumb.png)](https://youtu.be/Xf_pHr-oFyY)
+[![sahib](video/cazton-thumb.png)](https://www.youtube.com/watch?v=gjtsF3HJvvM)
 
 
 ## Refrences :-
