@@ -1,0 +1,11 @@
+questions,answers,training
+What is the title of the training and development page?,Training & Development | Cazton,docker
+What kind of training does Cazton provide?,Complete hands-on training on Docker,docker
+What will you learn in the Docker training?,"Architectural design for deploying applications using Docker, CI/CD Pipeline, using Docker in the cloud, packaging and deploying applications in a Docker Cluster, and much more",docker
+What is the source of the information?,https://cazton.com/trainings/docker,docker
+What is the language of the content?,en,docker
+What are some topics covered in the Database Development section?,"Polyglot Persistence, SQL Server, PostGres, Azure Cosmos DB, MongoDB, Cassandra, Redis, Apache Ignite",docker
+What are some topics covered in the Docker Training section?,"Introduction to Docker, Docker Compose, Containers and Virtualization, Dockerfile, Docker Compose Orchestration with VSCode Tasks, Optimized Multi-Stage Docker Builds, Integrating docker image pushes into CI Builds, Continuous Deployment with Keel and WebHooks",docker
+What are some topics covered in the Big Data & AI section?,"AI Express PoC Service, OpenAI, AI Agents, OpenAI Case Studies, Azure OpenAI, ChatGPT for Business, Tech Debt Terminators, PyTorch, Microsoft Fabric, TensorFlow, Artificial Intelligence, Big Data, OpenAI vs CaztonAI, Databricks, Apache Spark, Hadoop & HDFS, Apache Kafka, Spark.NET",docker
+What are some topics covered in the Cloud & DevOps section?,"Amazon Web Services, Azure, Google Cloud Platform, Snowflake, DevOps, Microservices, Docker, Kubernetes, Terraform, Agile",docker
+What are some other services provided by Cazton?,"Database Development, Mobile / Desktop Development, Web & API Development, Cloud / DevOps, Enterprise Search, Other Services",docker

@@ -1,0 +1,581 @@
+,Unnamed: 0,question,answer
+0,0.0, What big data services does Cazton offer?,"Cazton has been a pioneer in Big Data. Our team includes but not limited to Big Data Engineers, Distributed Systems Engineer, Data Scientists, Hadoop Experts, Spark Experts, Spark.NET Experts, Kafka Experts have years of experience and strong analytical and problem-solving skills. Our experts have hands-on experience with Big Data technologies that includes Hadoop, Spark, HIVE, HBase, Kafka, Impala, PIG, Zookeeper, Cassandra. NoSQL databases like Couchbase, MongoDB and have proven record building solid production level software on various Big data technologies. Contact us now to learn more about our big data services."
+1,1.0, What strategies can companies use to better understand large amounts of data?,"
+With every passing second, the amount of data shared and transferred between humans is unimaginable. To manage, analyze, make predictions and decisions using that data is a daunting task. With data being a critical asset, companies today strive to understand the latest market trends, customer preferences and other requirements, thus making understanding large amount of data imperative.
+"
+2,2.0, What features does Microsoft Fabric offer as part of its modern analytics platform?,"
+Microsoft Fabric offers a comprehensive and streamlined solution that caters to diverse analytics workloads and users, all built upon a robust data foundation designed for enterprise-grade performance. It seamlessly combines Power BI, Data Factory, and the cutting-edge iteration of Synapse, presenting a unified software-as-a-service (SaaS) solution. This innovative offering empowers customers with a cost-efficient and effortlessly administered modern analytics platform, specifically tailored to meet the demands of the AI-driven era.
+"
+3,3.0,"
+What advantages does Spark offer over Hadoop's MapReduce system?","
+Spark is an open-source, lightning fast, cluster computing framework that provides a fast and powerful engine for large-scale data (Big Data) processing. It runs programs up to 100x faster in-memory and 10x faster on disk when compared to Hadoop’s MapReduce system. The reason for Spark’s success is its ability to process data in-memory (using RAM) that allows faster retrieval of data as compared to querying and searching on disk.
+"
+4,4.0, What was Databricks' annualized revenue two years ago?,"
+On Aug 5, 2022, the CEO of Databricks announced Friday that his company has surpassed $1 billion in annualized revenue. This is more than double the $350 million in annualized revenue it reported just two years ago. This clearly rivals Snowflake’s growth and paves way for Databricks’ much-anticipated IPO in the near future.
+"
+5,5.0, What are the advantages of using Apache™ Hadoop for Big Data processing and storage?,"
+Cazton has been a pioneer in Big Data Consulting and one popular technology that powers Big Data is Apache™ Hadoop. Hadoop is a highly scalable open-source framework written in Java, which allows processing and storage of terabytes or even petabytes of structured and unstructured complex data (Big Data) across clusters of computers. Its unique storage mechanism over distributed file system (HDFS) maps data wherever it is located on a cluster. The speciality of Hadoop is that it can scale from one server to hundreds of servers and can still perform well. It is fast, flexible and cost-effective as compared to traditional storage systems.
+"
+6,6.0,"
+What are the advantages of having real-time insights into active transactions?","
+Imagine a process which converts unstructured, unreadable pieces of information into something that is extremely valuable for your organization? information that gives you insights about your business, your products, customers and their preferences. Now imagine getting those insights in real time! We are talking about a process that gives you instant information about an active transaction. Such information is always valuable, isn't it
+"
+7,7.0,"
+What advantages does Spark offer for large scale data processing and Big Data analytics?","
+Over the years, Spark has seen great acceptance in the technology industry. When it comes to large scale data processing or Big Data analytics, Spark has gained a lot of attention due to its lightning fast processing speed, batch and stream data processing, support for a variety of data sources and easy to integrate with applications written in C#, Java, Scala, Python and R.
+"
+8,8.0, What are the new features of Cosmos DB that make it different from previous generations of database technology?,"
+The evolution of database technologies has been exceptional. Right from the first pre-stage flat-file systems to relational and object-relational databases to NoSQL databases, database technology has gone through several generations and its history has spread over more than 50 years now. A time has come when database technology has taken the next step forward to become more scalable, globally distributed and multi-model. Welcome to the new world of Cosmos DB!
+"
+9,9.0, What are some of the largest production deployments of Cassandra?,"
+Did you know there are more than 1500 companies using Cassandra to handle huge volumes of data? Did you know that some of the largest production deployments include Apple's, with over 75,000 nodes storing over 10 PB of data, Netflix (2,500 nodes, 420 TB, over 1 trillion requests per day), Chinese search engine Easou (270 nodes, 300 TB, over 800 million requests per day), and eBay (over 100 nodes, 250 TB)?
+"
+10,10.0, What are the different types of data models that have emerged throughout the history of databases?,"
+Database technologies have undergone several generations of evolution, right from flat-file systems to relational databases to schemaless databases. Some people might say that traditional relational databases are a thing of the past, but that is not true for all the scenarios. Changing requirements and evolution of the internet has meant that new types of databases have emerged, but most have specific use cases, which makes it difficult to decide on which database should be used when. At the same time, different types of data models have emerged throughout the history of databases but only Relational and NoSQL models have prevailed.
+"
+11,11.0, What are the different types of NoSQL databases available?,"
+Did you know relational databases can scale up, but have a hard time scaling out? NoSQL databases, on the other hand, are meant to scale out with commodity-grade hardware. Many organizations prefer using NoSQL over SQL databases as it offers a great set of features. There are different types of NoSQL databases available including Key-Value Store, Document Databases, Column-Family Databases, Graph Databases and Full-Text Search Engine Databases.
+"
+12,12.0, What type of caching strategy do you need that will scale seamlessly with the least amount of effort?,"
+Do you have a good caching strategy for your applications? Have you felt the pain of sticky sessions? Have you had a caching strategy that didn't work for you? Do you need a caching strategy that scales seamlessly with the least amount of effort? If the answer to any of these questions is a ""yes,"" the good news is that you are in the right place.
+"
+13,13.0, What measures do you take to increase the speed of data processing and machine learning model training?,"
+Do you face problems while scaling data in memory? Are you facing slow processing times? Do you want scalability and as well as atomic transactions? Do your machine learning models require a lot of time for training and production?
+"
+14,14.0, What challenges have you faced while working with SQL Server code that involves large amounts of data?,"
+Have you ever encountered SQL Server code with more than 50 joins in a query? Have you ever seen code that retrieves millions of records SQL Server to the Web Server just to return one record to the User Interface? If yes, that's great. This is our daily job.
+"
+15,15.0, What research studies have consistently ranked PostGres as one of the top four relational databases?,"
+Did you know PostGres is the fastest growing relational database that is not only free and open source, but rivals the performance of paid RDBMS databases like Oracle and SQL Server? It is no surprise that PostGres has consistently ranked as one of the top four relational databases by multiple credible research studies comparing database engines.
+"
+16,16.0, How does a robust search contribute to increased customer traffic and growth in sales?,"
+Search is one of the most important aspects in any application. Could you imagine Amazon, one of the world's largest e-commerce websites, without a search functionality? It would be nearly impossible to find products if we had to look for them manually. A robust search in this case is the key towards best user experience, increased customer traffic, growth in sales and generation of customer data, which is invaluable for such a big organization.
+"
+17,17.0, What advantages does Elasticsearch provide compared to traditional RDBMS?,"
+Search is one of the most important tools in any web application. Having a robust and fool-proof search system can boost your business growth in many ways. One such technology that empowers search is called Elasticsearch. Unlike traditional RDBMS, Elasticsearch is designed to allow full-text searching. It allows you to create your own search-engine that is fast, powerful and scalable. In addition to web searches, Elasticsearch is also used for log analysis and big data analytics.
+"
+18,18.0, What services does Cazton offer related to Artificial Intelligence?,"Cazton offers consulting, recruiting and training services for Machine Learning, Deep Learning, Data Science, Artificial Intelligence and much more. Our team is composed of experienced Machine Learning Engineers, Data Scientists, Research Scientists, R&D Engineers, Distributed Systems Engineer, Business Intelligence Developers, Computer Vision Engineers, AI Experts who can provide you services at a cost effective rate. Contact us now to learn more about our artificial intelligence services."
+19,19.0, What benefits does Cazton's AI Express PoC service provide for businesses?,"
+'AI Express PoC' is a one-week OpenAI PoC service offered by Cazton that allows businesses to quickly develop and test AI solutions. This service is designed to help companies rapidly explore the potential of AI technologies and determine whether they are a good fit for their specific needs and objectives. With the fast-paced nature of the tech industry, being able to quickly evaluate the feasibility of AI applications is essential to staying competitive. 
+"
+20,20.0,"
+What challenges exist in the realm of artificial intelligence with autonomous agents powered by Large Language Models (LLMs)?","
+The realm of artificial intelligence has birthed a transformative evolution: autonomous agents powered by Large Language Models (LLMs). These agents transcend mere text generation, becoming problem-solving entities. From intricate planning strategies to memory utilization and ecosystem navigation, they mirror human-like problem-solving. This exploration navigates their capabilities, showcasing their potential through case studies like scientific discovery, generative simulations, collaborative robotics, and smart city management. However, challenges persist, from finite context lengths to ethical concerns and security issues. As the horizon expands for these agents, considerations arise for implementing them, and Cazton offers expertise in crafting tailored solutions. The journey toward fully autonomous agents brims with challenges yet promises a future where these intelligent entities redefine our interaction with technology and the world.
+"
+21,21.0, What are some of the advantages of using large language models for natural language processing tasks?,"
+Imagine being able to build almost any digital asset just by providing prompts in natural language. Language models (LMs) like T5, LaMDA, GPT-3, and PaLM have demonstrated impressive performance on such tasks. Recent studies suggest that scaling up the size of the model is crucial for solving complex natural language problems.
+"
+22,22.0,"
+What are some of the ways OpenAI is transforming the world?","
+OpenAI is transforming the world through its groundbreaking advancements in artificial intelligence and language processing technologies. It is transforming the world by providing accessible AI technology that enables businesses and developers to leverage advanced language models. It automates tasks, improves efficiency, and fosters innovation across industries. With its natural language processing capabilities, it enables personalized experiences, augmented decision-making, and improved user interfaces.
+"
+23,23.0, What advantages does Spark offer compared to Hadoop's MapReduce?,"
+Spark is an open-source, lightning fast, cluster computing framework that provides a fast and powerful engine for large-scale data (Big Data) processing. It runs programs up to 100x faster in-memory and 10x faster on disk when compared to Hadoop’s MapReduce system. The reason for Spark’s success is its ability to process data in-memory (using RAM) that allows faster retrieval of data as compared to querying and searching on disk.
+"
+24,24.0,"
+What are the remarkable capabilities of Azure OpenAI?","
+Azure OpenAI is a groundbreaking service that integrates OpenAI's advanced language models with Microsoft Azure, offering seamless REST API access for AI-driven solutions. Cazton's CEO delivered insightful keynotes at the Global AI Developer Days in Fall 2022, spanning Europe, the United States, and Latin America. Dive into Cazton's captivating video demo and witness the remarkable capabilities of Azure OpenAI, effortlessly generating charts and images with a single response. Transform your business with AI-driven solutions today!
+"
+25,25.0, What are the advantages of using Spark for large scale data processing and Big Data analytics?,"
+Over the years, Spark has seen great acceptance in the technology industry. When it comes to large scale data processing or Big Data analytics, Spark has gained a lot of attention due to its lightning fast processing speed, batch and stream data processing, support for a variety of data sources and easy to integrate with applications written in C#, Java, Scala, Python and R.
+"
+26,26.0, How does the Cazton team help create a secure and customizable model?,"
+Cazton team has solved all the major challenges and can help you create a fully customizable model that is secure, keeps data private, platform agnostic, integrates with existing systems, allows frequent granular model updates and trains even on extremely small data.
+"
+27,27.0, What are the challenges faced by companies in understanding large amounts of data?,"
+With every passing second, the amount of data shared and transferred between humans is unimaginable. To manage, analyze, make predictions and decisions using that data is a daunting task. With data being a critical asset, companies today strive to understand the latest market trends, customer preferences and other requirements, thus making understanding large amount of data imperative.
+"
+28,28.0," What factors contribute to the high failure rate of tech projects, and how can businesses mitigate those risks?","
+In today's rapidly evolving tech landscape, the success rate of technical projects, including AI ones, remains disappointingly low. Many companies embark on ambitious tech ventures, only to see them fail due to a variety of reasons. This high failure rate presents a significant challenge for businesses looking to capitalize on the potential of digital modernization, such as artificial intelligence.
+"
+29,29.0, What are the benefits of having real-time insights into active transactions?,"
+Imagine a process which converts unstructured, unreadable pieces of information into something that is extremely valuable for your organization? information that gives you insights about your business, your products, customers and their preferences. Now imagine getting those insights in real time! We are talking about a process that gives you instant information about an active transaction. Such information is always valuable, isn't it
+"
+30,30.0,"
+What are the major use cases of PyTorch?","
+PyTorch is one of the most popular deep learning frameworks and is based on the library Torch. Computer vision and natural language processing are two major use cases. When it was launched, it was easier to use with Graphics Processing Units (GPUs) and that explains why researchers preferred it over competitive offerings like TensorFlow.
+"
+31,31.0, What are the different generations of database technologies and data models?,"
+Database technologies have undergone several generations of evolution, right from flat-file systems to relational databases to schemaless databases. Some people might say that traditional relational databases are a thing of the past, but that is not true for all the scenarios. Changing requirements and evolution of the internet has meant that new types of databases have emerged, but most have specific use cases, which makes it difficult to decide on which database should be used when. At the same time, different types of data models have emerged throughout the history of databases but only Relational and NoSQL models have prevailed.
+"
+32,32.0, What degree does Chander Dhall have that has enabled him to stay up to date with machine learning?,"
+Our CEO, Chander Dhall, became fascinated with machine learning over a decade ago. Having a masters in computer science, he has always kept up with academia even though the company primarily works on projects for mid and large size Fortune 500 corporations.
+"
+33,33.0, What are the different types of NoSQL databases available?,"
+Did you know relational databases can scale up, but have a hard time scaling out? NoSQL databases, on the other hand, are meant to scale out with commodity-grade hardware. Many organizations prefer using NoSQL over SQL databases as it offers a great set of features. There are different types of NoSQL databases available including Key-Value Store, Document Databases, Column-Family Databases, Graph Databases and Full-Text Search Engine Databases.
+"
+34,34.0, What type of projects does the company primarily work on?,"
+Our CEO, Chander Dhall, became fascinated with machine learning over a decade ago. Having a masters in computer science, he has always kept up with academia even though the company primarily works on projects for mid and large size Fortune 500 corporations. Having been awarded by both Microsoft (Microsoft Most Valuable Professional for close to a decade) and Google (Google Developer Expert), he has been fortunate to interact and share knowledge with the ones who create these technologies.
+"
+35,35.0, How many companies use Cassandra to handle large volumes of data?,"
+Did you know there are more than 1500 companies using Cassandra to handle huge volumes of data? Did you know that some of the largest production deployments include Apple's, with over 75,000 nodes storing over 10 PB of data, Netflix (2,500 nodes, 420 TB, over 1 trillion requests per day), Chinese search engine Easou (270 nodes, 300 TB, over 800 million requests per day), and eBay (over 100 nodes, 250 TB)?
+"
+36,36.0, What are the advantages of using ChatGPT compared to other AI products?,"
+ChatGPT is the fastest product in history to have acquired more than a million customers in just five days. Generative AI or GANs (Generative Adversarial Network) is a type of artificial intelligence that generates new content, such as text, images, or music, based on a set of input data.
+"
+37,37.0, What type of caching strategy do you need to ensure scalability with minimal effort?,"
+Do you have a good caching strategy for your applications? Have you felt the pain of sticky sessions? Have you had a caching strategy that didn't work for you? Do you need a caching strategy that scales seamlessly with the least amount of effort? If the answer to any of these questions is a ""yes,"" the good news is that you are in the right place.
+"
+38,38.0," Are you looking for a solution that offers scalability, atomic transactions, and fast processing times for machine learning models?","
+Do you face problems while scaling data in memory? Are you facing slow processing times? Do you want scalability and as well as atomic transactions? Do your machine learning models require a lot of time for training and production?
+"
+39,39.0, What advantages does Elasticsearch offer over traditional RDBMS systems?,"
+Search is one of the most important tools in any web application. Having a robust and fool-proof search system can boost your business growth in many ways. One such technology that empowers search is called Elasticsearch. Unlike traditional RDBMS, Elasticsearch is designed to allow full-text searching. It allows you to create your own search-engine that is fast, powerful and scalable. In addition to web searches, Elasticsearch is also used for log analysis and big data analytics.
+"
+40,40.0, What are the benefits of a robust search in an e-commerce website?,"
+Search is one of the most important aspects in any application. Could you imagine Amazon, one of the world's largest e-commerce websites, without a search functionality? It would be nearly impossible to find products if we had to look for them manually. A robust search in this case is the key towards best user experience, increased customer traffic, growth in sales and generation of customer data, which is invaluable for such a big organization.
+"
+41,41.0,What experience do your team members have with Microsoft and open source technologies?,"
+Have you worked with multi-billion dollar consulting and recruiting companies? If yes, we are sure we can provide more quality services at a much more affordable rates. We have been fortunate to work directly with Microsoft product teams for many years. Our team includes Microsoft awarded Most Valuable Professionals, Azure Insiders, Docker Insiders, ASP.NET Insiders, Web API Advisors, Cosmos DB Insiders as well as experts in other Microsoft and notable open source technologies.
+"
+42,42.0, What services does Cazton offer in terms of web development?,"Cazton offers full stack development, devops and trainings on all the latest Microsoft and Non-Microsoft technologies. Our Microsoft practice is led by a Microsoft Most Valued Professional and comprised of former Microsoft employees, former IBMers and internationally-acclaimed speakers. Our Microsoft practice is heavily involved in open source projects and cloud based solutions, too. Our services cover technologies that includes but isn't limited to  .NET, .NET Core, Azure, SQL Server, Cosmos DB, ASP.NET, ASP.NET Core, Entity Framework, Docker and Kubernetes. Our experts can work on the latest JavaScript frameworks viz Angular, React, React Native, Vue, Node.js, Aurelia, AngularJS, BackboneJS, EmberJS, Polymer, Socket, Meteor and many more. Contact us now to learn more about our web development services."
+43,43.0, What are the benefits of using .NET 7 to build applications?,"
+.NET is a free, cross-platform, developer platform open-sourced by Microsoft. .NET 7 was released in November, 2022. It’s used to build web, mobile, desktop, games, IoT and other applications
+"
+44,44.0," What enhancements, optimizations, and fresh capabilities does .NET 8 offer?","
+The software development realm is continuously evolving, and the advent of .NET 8, the latest long-term support (LTS) version, marks a significant milestone in this journey. Packed with a myriad of enhancements, optimizations, and fresh capabilities, this release represents a culmination of extensive refinements spanning performance, stability, security, and tooling. .NET 8 empowers developers to craft intelligent, cloud-native applications and services that effortlessly scale, underlining a leap forward in the landscape of software development.
+"
+45,45.0,"
+What is the market share of Java according to the TIOBE Index in 2021?","
+Java is a cross-platform, development framework open-sourced by Oracle. A survey conducted by the TIOBE Index in 2021 ranked Java as the second most popular programming language in the world, with a market share of 17.2% According to the 2021 Stack Overflow Developer Survey, Java is the third most popular programming language, with a popularity rating of 28.3%.
+"
+46,46.0, What is the purpose of .NET 6?,"
+With the success of .NET 5, Microsoft has continued to build upon its unified vision and .NET 6 has replaced .NET Standard as a huge step towards becoming a truly multi-platform framework. .NET 6 unifies the SDK, runtime and base libraries as a single development platform and enables building apps for the cloud, web, desktop, mobile, gaming, IoT and artificial intelligence.
+"
+47,47.0, What advantages does Node.js offer compared to the .NET framework?,"
+.NET framework was about a decade old when Node.js was launched. Node.js was created with an async-first vision with focus on efficiency and scalability. However, Node.js when introduced was single-threaded, it was not the best option for computation intensive jobs.
+"
+48,48.0, What advantages does .NET Core offer developers compared to the .NET Framework?,"
+.NET Core is a fresh new software development framework that allows developers to create next generation apps with ease. It is Microsoft’s latest software development framework, which is cloud-enabled, cross-platform, modular and fast. It is a complete rewrite of the existing .NET framework. Unlike the .NET Framework, .NET Core is fully open-source, which means that the features of this framework directly reflect the skills and desires of .NET developers and the community.
+"
+49,49.0,"
+What are the different types of applications and solutions that can be developed using Microsoft .NET?","
+Microsoft .NET is one of the most preferred and widely used technologies in the software development industry. It is a set of technologies that work together to solve different business problems. Over the years, this technological ecosystem has evolved extensively. It provides rich set of tools, libraries and APIs for developing different types of applications and solutions for Web, Mobile, Cloud, Desktop, Gaming, IOT, Mixed Reality and much more.
+"
+50,50.0, How has Microsoft contributed to the transformation of the Web over the years?,"
+The Web has seen significant transformation over the years. Beginning with the first static website, which released almost three decades ago to today when sophisticated technologies display real-time information, the transformation has been spectacular. Microsoft’s contribution to Web and open source has been especially noteworthy. This company has been one of the pioneers in providing great web development technologies through .NET. Technologies like ASP.NET Web Forms, ASP.NET MVC, SignalR, Web API, Entity Framework, SQL Server and their latest ASP.NET Core that supports .NET Core.
+"
+51,51.0, How much faster is EF Core on .NET 6 compared to .NET 5?,"
+EF Core on .NET 6 is 92% faster than on .NET 5 and demonstrates huge gains in query performance and improved startup performance with compiled models. It is 31% faster in executing untracked queries and offers 43% reduction in heap allocation while executing queries.
+"
+52,52.0, What advantages does Blazor offer over other client-side frameworks?,"
+Are you tired of maintaining JavaScript code? Do you have performance issues with JavaScript? Blazor may be the answer to your problems. Did you know Blazor is based on existing web technologies like HTML and CSS, but allows using C# and Razor syntax instead of JavaScript to build composable web UIs? Welcome Blazor, the latest client-side framework from Microsoft that lets you run your client-side C# code directly in the browser.
+"
+53,53.0, What versions of Angular does Cazton typically work with?,"
+Did you know Angular is one of the fastest Single Page App (SPA) frameworks? Did you know the Angular team has kept its promise of releasing a new version every six months? With enterprise clients upgrading from AngularJS to Angular recently, it’s been a great time for Cazton to help clients not only upgrade brownfield applications from AngularJS to Angular, but also develop greenfield applications on Angular (versions 2, 4, 5, 6 and now 7).
+"
+54,54.0,"
+What awards have members of your team received from Microsoft?","
+Have you worked with multi-billion dollar consulting and recruiting companies? If yes, we are sure we can provide more quality services at a much more affordable rates. We have been fortunate to work directly with Microsoft product teams for many years. Our team includes Microsoft awarded Most Valuable Professionals, Azure Insiders, Docker Insiders, ASP.NET Insiders, Web API Advisors, Cosmos DB Insiders as well as experts in other Microsoft and notable open source technologies.
+"
+55,55.0, What benefits does React offer to developers when updating code?,"
+Many times developers need to rewrite and change code when adding new components or features. React, with its component-based nature, makes this easy and encourages code reusability and hence makes websites much more maintainable and extensible. At Cazton, our team of JavaScript experts are well-versed with a wide variety of JavaScript frameworks including React and have years hands on experience building tools, libraries, applications using various JavaScript frameworks. 
+"
+56,56.0, How do we accommodate different team members with different preferences when developing Enterprise software?,"
+In Enterprise software development we have a lot of challenges on a daily basis. We have different team members who have different strengths. UI developers might want to work on a Mac, while the backend developers might like to work in a Windows environment.
+"
+57,57.0, What advantages does Node.js offer for web development?,"
+Did you know Node.js, a popular open-source web development framework, is one of the most adopted JavaScript runtimes? Did you know that Node.js runs the V8 JavaScript engine which is the core of Google Chrome? Node.js is async-first which makes it achieve hyper-scale with commodity level machines.
+"
+58,58.0, What inspired Google to open source Kubernetes after 15 years of internal use?,"
+Google used Kubernetes internally for about 15 years of experience before finally open sourcing it. As we can imagine Google probably has the highest production workload given that Google.com and Youtube.com are the two top websites in the world.
+"
+59,59.0," What is a ""Progressive Web App"" and how did it affect Flipkart's website?","
+Did you know that until recently 40% of websites were not aware of Google’s new mobile ranking signal? Did you know that a typical user downloads zero new apps a month, but visits roughly 100 websites a month? According to Google, after Flipkart (India’s largest e-commerce site recently acquired by Walmart) moved to a Progressive Web App (PWA)
+"
+60,60.0, What advantages did transitioning from monolith apps to services offer?,"
+Transitioning from monolith apps to services was a logical progression. In order to have services or APIs that could communicate with external as well as internal systems, it made sense to take a particular component of the system and convert it into services.
+"
+61,61.0, What are the fields of technology where JavaScript has become popular?,"
+It is no secret JavaScript has become insanely popular amongst developers. From backend engineering to building hybrid mobile apps and constructing cloud solutions, it has made its massive presence felt everywhere. Even the fields of machine learning and robotics started adopting the versatile JavaScript.
+"
+62,62.0, What are the different types of data models that have emerged throughout the history of databases?,"
+Database technologies have undergone several generations of evolution, right from flat-file systems to relational databases to schemaless databases. Some people might say that traditional relational databases are a thing of the past, but that is not true for all the scenarios. Changing requirements and evolution of the internet has meant that new types of databases have emerged, but most have specific use cases, which makes it difficult to decide on which database should be used when. At the same time, different types of data models have emerged throughout the history of databases but only Relational and NoSQL models have prevailed.
+"
+63,63.0, How often do you encounter SQL Server code with more than 50 joins in a query?,"
+Have you ever encountered SQL Server code with more than 50 joins in a query? Have you ever seen code that retrieves millions of records SQL Server to the Web Server just to return one record to the User Interface? If yes, that's great. This is our daily job.
+"
+64,64.0, What advancements have been made in database technology over the last 50 years?,"
+The evolution of database technologies has been exceptional. Right from the first pre-stage flat-file systems to relational and object-relational databases to NoSQL databases, database technology has gone through several generations and its history has spread over more than 50 years now. A time has come when database technology has taken the next step forward to become more scalable, globally distributed and multi-model. Welcome to the new world of Cosmos DB!
+"
+65,65.0, What are the different types of NoSQL databases?,"
+Did you know relational databases can scale up, but have a hard time scaling out? NoSQL databases, on the other hand, are meant to scale out with commodity-grade hardware. Many organizations prefer using NoSQL over SQL databases as it offers a great set of features. There are different types of NoSQL databases available including Key-Value Store, Document Databases, Column-Family Databases, Graph Databases and Full-Text Search Engine Databases.
+"
+66,66.0, What are the benefits of having a good caching strategy for applications?,"
+Do you have a good caching strategy for your applications? Have you felt the pain of sticky sessions? Have you had a caching strategy that didn't work for you? Do you need a caching strategy that scales seamlessly with the least amount of effort? If the answer to any of these questions is a ""yes,"" the good news is that you are in the right place.
+"
+67,67.0, What is Agile and how has it changed the way software is created?,"
+The evolution of the software and software industry has been remarkable over the years. From the mid 1900's when the first electronic computer originated to today where we have control over almost anything at the tips of our fingers, this journey has completely changed the world we live in. The journey, which began with IBM's first mainframe computer to Apple's iPhone to Artificial Intelligent machines, shows how technology is a perfect blend of great ideas and innovation. The goal was to achieve more sophistication and provide a better user experience. Along with this technical advancement, there were various software development methodologies and practices that evolved to bring in more sophistication. Today in this article, we take a look at one such evolutionary methodology called Agile that changed the way software is created.
+"
+68,68.0, What is software architecture and how is it similar to constructing a building?,"
+The term architecture generally means the practice of designing or building something. Software architecture is the process of taking operational and technical requirements, and designing a solution that optimizes things important to the system like quality, performance, security, and maintainability. If we envision what is needed to build software, it is similar to the process of constructing a building. In the latter, architects first start by selecting a site. It is then cleared by creating a solid foundation. Architects and workers then erect the building's core structure, build the floors, level by level; interconnect the entire building with wires and plumbing, and finally finish off the interior and exterior of the building.
+"
+69,69.0,"
+What are the industries that have seen a widespread adoption of different types of technologies?","
+Since the evolution of a wide variety of devices, the volume of data being captured has grown. The IoT is emerging as a key enabler of our digital future, and global spending on IoT and Smart devices will increase tremendously in the next few years. There has been a widespread adoption of different types of technologies in industries like banking and investment services, education, healthcare, insurance, and many others.
+"
+70,70.0, What are the benefits of using Elasticsearch over traditional RDBMS?,"
+Search is one of the most important tools in any web application. Having a robust and fool-proof search system can boost your business growth in many ways. One such technology that empowers search is called Elasticsearch. Unlike traditional RDBMS, Elasticsearch is designed to allow full-text searching. It allows you to create your own search-engine that is fast, powerful and scalable. In addition to web searches, Elasticsearch is also used for log analysis and big data analytics.
+"
+71,71.0, What benefits does a robust search provide for large e-commerce websites?,"
+Search is one of the most important aspects in any application. Could you imagine Amazon, one of the world's largest e-commerce websites, without a search functionality? It would be nearly impossible to find products if we had to look for them manually. A robust search in this case is the key towards best user experience, increased customer traffic, growth in sales and generation of customer data, which is invaluable for such a big organization.
+"
+72,72.0, What industries does Cazton serve?,"Cazton is composed of technical professionals with expertise gained all over the world and in all fields of the tech industry and we put this expertise to work for you. Our experts are able to quickly identify, predict, and satisfy our clients' current and future need. Our clients trust us to provide them with the knowledge and skill to tackle every challenge and succeed at every opportunity. We serve all industries, including banking, finance, legal services, life sciences & healthcare, technology, media, and the public sector."
+73,73.0, What challenges have mobile app developers faced with regard to developing applications for multiple mobile operating systems?,"
+For the longest time, mobile application developers have had to learn and write code separately for the two mobile operating systems. To make an app available to everyone, you would have to write all the code twice: for iOS in Swift and for Android in Java. Mobile app developers have long been plagued by the problem of inefficiency, typically slow cycles of development, slow loading of applications and overall low productivity.
+"
+74,74.0," What are the features of Apple's new language, Swift?","
+In the Worldwide Developers Conference 2014 along with the announcement of iOS 8 and Yosemite, Apple took everybody by surprise by launching a new language – Swift for programming and development on Apple’s platforms. After roughly 30 years of Objective-C, Swift was launched to improve upon the difficulties faced with the former. As a one-stop language for various purposes, Swift can be used for iOS app development, iPad app development, building applications for Apple computers, watches and televisions.
+"
+75,75.0, How can Cazton's expertise enhance the performance and efficiency of a project?,"
+At Cazton, we help Fortune 500, large and mid-size companies with Ionic development, consulting, recruiting services and hands-on training services. We have significant experience in Microsoft technology stack, and our expertise can enhance your project’s performance and improve its efficiency. We believe in customizing each solution to tailor to the exact needs of the client.
+"
+76,76.0, What advantages does Node.js offer over other JavaScript runtimes?,"
+Did you know Node.js, a popular open-source web development framework, is one of the most adopted JavaScript runtimes? Did you know that Node.js runs the V8 JavaScript engine which is the core of Google Chrome? Node.js is async-first which makes it achieve hyper-scale with commodity level machines.
+"
+77,77.0, What versions of Angular does Cazton specialize in?,"
+Did you know Angular is one of the fastest Single Page App (SPA) frameworks? Did you know the Angular team has kept its promise of releasing a new version every six months? With enterprise clients upgrading from AngularJS to Angular recently, it’s been a great time for Cazton to help clients not only upgrade brownfield applications from AngularJS to Angular, but also develop greenfield applications on Angular (versions 2, 4, 5, 6 and now 7).
+"
+78,78.0, How does React's component-based architecture make code more maintainable and extensible?,"
+Many times developers need to rewrite and change code when adding new components or features. React, with its component-based nature, makes this easy and encourages code reusability and hence makes websites much more maintainable and extensible. At Cazton, our team of JavaScript experts are well-versed with a wide variety of JavaScript frameworks including React and have years hands on experience building tools, libraries, applications using various JavaScript frameworks. 
+"
+79,79.0,"
+What are the benefits of using a Progressive Web App (PWA)?","
+Did you know that until recently 40% of websites were not aware of Google’s new mobile ranking signal? Did you know that a typical user downloads zero new apps a month, but visits roughly 100 websites a month? According to Google, after Flipkart (India’s largest e-commerce site recently acquired by Walmart) moved to a Progressive Web App (PWA)
+"
+80,80.0, What expertise does your team have in Microsoft and other open source technologies?,"
+Have you worked with multi-billion dollar consulting and recruiting companies? If yes, we are sure we can provide more quality services at a much more affordable rates. We have been fortunate to work directly with Microsoft product teams for many years. Our team includes Microsoft awarded Most Valuable Professionals, Azure Insiders, Docker Insiders, ASP.NET Insiders, Web API Advisors, Cosmos DB Insiders as well as experts in other Microsoft and notable open source technologies.
+"
+81,81.0, What advantages does JavaScript offer developers?,"
+It is no secret JavaScript has become insanely popular amongst developers. From backend engineering to building hybrid mobile apps and constructing cloud solutions, it has made its massive presence felt everywhere. Even the fields of machine learning and robotics started adopting the versatile JavaScript.
+"
+82,82.0, What are the advantages of using React Native and Electron for software development?,"
+One of the principles of software development is DRY, which stands for “Do not Repeat Yourself.” Yet, ironically, developers needed to write logic again and again for various different platforms. React Native has now allowed the logic layer to be used amongst Android and iOS mobile applications. Electron is another pivotal achievement in that direction.
+"
+83,83.0," What technologies does Cazton specialize in providing Desktop development, consulting and training services?","With each new technology, there comes new ways to master it, optimize its performance, ease its integration with other technologies and maximize efficiency of the system. The team of experts at Cazton is well-versed to the rapidly changing technologies and can help you strike the perfect balance between the two. We provide excellent Desktop development, consulting and training services on technologies including but not limited to (WPF, UWP, WinForms, Electron, Swing, JavaFX, Qt) backed by experience from working on the technology and in this industry for years."
+84,84.0, What are some of the benefits of using React Native and Electron for developing software?,"
+One of the principles of software development is DRY, which stands for “Do not Repeat Yourself.” Yet, ironically, developers needed to write logic again and again for various different platforms. React Native has now allowed the logic layer to be used amongst Android and iOS mobile applications. Electron is another pivotal achievement in that direction.
+"
+85,85.0, What are the advantages of using Node.js over other JavaScript runtimes?,"
+Did you know Node.js, a popular open-source web development framework, is one of the most adopted JavaScript runtimes? Did you know that Node.js runs the V8 JavaScript engine which is the core of Google Chrome? Node.js is async-first which makes it achieve hyper-scale with commodity level machines.
+"
+86,86.0, What are the advantages of using .NET Core for software development?,"
+.NET Core is a fresh new software development framework that allows developers to create next generation apps with ease. It is Microsoft’s latest software development framework, which is cloud-enabled, cross-platform, modular and fast. It is a complete rewrite of the existing .NET framework. Unlike the .NET Framework, .NET Core is fully open-source, which means that the features of this framework directly reflect the skills and desires of .NET developers and the community.
+"
+87,87.0, What type of applications and solutions does Microsoft .NET provide?,"
+Microsoft .NET is one of the most preferred and widely used technologies in the software development industry. It is a set of technologies that work together to solve different business problems. Over the years, this technological ecosystem has evolved extensively. It provides rich set of tools, libraries and APIs for developing different types of applications and solutions for Web, Mobile, Cloud, Desktop, Gaming, IOT, Mixed Reality and much more.
+"
+88,88.0, What advantages does Blazor offer compared to other client-side frameworks?,"
+Are you tired of maintaining JavaScript code? Do you have performance issues with JavaScript? Blazor may be the answer to your problems. Did you know Blazor is based on existing web technologies like HTML and CSS, but allows using C# and Razor syntax instead of JavaScript to build composable web UIs? Welcome Blazor, the latest client-side framework from Microsoft that lets you run your client-side C# code directly in the browser.
+"
+89,89.0,"
+What is a Progressive Web App (PWA)?","
+Did you know that until recently 40% of websites were not aware of Google’s new mobile ranking signal? Did you know that a typical user downloads zero new apps a month, but visits roughly 100 websites a month? According to Google, after Flipkart (India’s largest e-commerce site recently acquired by Walmart) moved to a Progressive Web App (PWA)
+"
+90,90.0, What is the frequency of release for new versions of Angular?,"
+Did you know Angular is one of the fastest Single Page App (SPA) frameworks? Did you know the Angular team has kept its promise of releasing a new version every six months? With enterprise clients upgrading from AngularJS to Angular recently, it’s been a great time for Cazton to help clients not only upgrade brownfield applications from AngularJS to Angular, but also develop greenfield applications on Angular (versions 2, 4, 5, 6 and now 7).
+"
+91,91.0,"
+What advantages does React provide that makes websites more maintainable and extensible?","
+Many times developers need to rewrite and change code when adding new components or features. React, with its component-based nature, makes this easy and encourages code reusability and hence makes websites much more maintainable and extensible. At Cazton, our team of JavaScript experts are well-versed with a wide variety of JavaScript frameworks including React and have years hands on experience building tools, libraries, applications using various JavaScript frameworks. 
+"
+92,92.0, What kind of awards and recognitions have members of your team received?,"
+Have you worked with multi-billion dollar consulting and recruiting companies? If yes, we are sure we can provide more quality services at a much more affordable rates. We have been fortunate to work directly with Microsoft product teams for many years. Our team includes Microsoft awarded Most Valuable Professionals, Azure Insiders, Docker Insiders, ASP.NET Insiders, Web API Advisors, Cosmos DB Insiders as well as experts in other Microsoft and notable open source technologies.
+"
+93,93.0, What services does Cazton offer for web development?,"API Development has been a very interesting and challenging type of architecture over the years. To add some context, previously when the world had very less users, scalability wasn’t of that much interest and so standalone apps were good enough for most part. However, later with a flood of different kinds of devices be it tablet, mobile or any small to large screen desktop monitors, users could use the same app from many different devices and it lead to the need for scaling apps. 
+
+Cazton offers full stack development, devops and trainings on all the latest Microsoft and Non-Microsoft technologies. Our Microsoft practice is led by a Microsoft Most Valued Professional and comprised of former Microsoft employees, Google Developer Experts and internationally-acclaimed speakers. Our Software Development practice is heavily involved in open source projects and cloud based solutions, too. Our services cover technologies that includes but isn't limited to .NET, .NET Core, Node.js, Express, Java, Spring Boot, Python, Django, Cosmos DB, Docker and Kubernetes. Contact us now to learn more about our web development services."
+94,94.0," What services does Cazton provide related to database development, consulting, and training?","Choosing a correct database solution is a crucial business decision. As the volume of data increases, different types of complexities evolve that are related to scalability, data security and cost effectiveness. It becomes important for business decision makers to choose the correct database solution that resolves these complexities.
+At Cazton, we have worked with clients who have more than a billion users a day and helped them resolve their scalability and data security issues. We have also worked with clients that have just thousands of users but wanted to reduce costs by looking at a NoSQL alternative like MongoDB and perceive the need to scale in future. Our team has been immensely busy in making client applications scale to a completely different level. We offer solutions for different types of relational databases like Oracle, SQL Server, PostGres, MySQL and NoSQL databases like Redis, MongoDB, Cassandra, DynamoDB, CouchDB, HBase, Riak, Neo4j just to name a few.
+Over the years, Cazton has expanded into a global company, servicing clients not only across the United States, but in Europe and Canada as well. In the United States, we provide our Database development, consulting and training services across various cities like Austin, Dallas, Houston, New York, New Jersey, Irvine, Los Angeles, Denver, Boulder, Charlotte, Atlanta, Orlando, Miami, San Antonio, San Diego and others. Contact us today to learn more about what our experts can do for you."
+95,95.0, What factors should business decision makers consider when choosing a database solution?,"Choosing a correct database solution is a crucial business decision. As the volume of data increases, different types of complexities evolve that are related to scalability, data security and cost effectiveness. It becomes important for business decision makers to choose the correct database solution that resolves these complexities."
+96,96.0, What solutions does Cazton offer to help clients scale their applications?,"At Cazton, we have worked with clients who have more than a billion users a day and helped them resolve their scalability and data security issues. We have also worked with clients that have just thousands of users but wanted to reduce costs by looking at a NoSQL alternative like MongoDB and perceive the need to scale in future. Our team has been immensely busy in making client applications scale to a completely different level. We offer solutions for different types of relational databases like Oracle, SQL Server, PostGres, MySQL and NoSQL databases like Redis, MongoDB, Cassandra, DynamoDB, CouchDB, HBase, Riak, Neo4j just to name a few."
+97,97.0, What services does Cazton offer in the United States?,"Over the years, Cazton has expanded into a global company, servicing clients not only across the United States, but in Europe and Canada as well. In the United States, we provide our Database development, consulting and training services across various cities like Austin, Dallas, Houston, New York, New Jersey, Irvine, Los Angeles, Denver, Boulder, Charlotte, Atlanta, Orlando, Miami, San Antonio, San Diego and others. Contact us today to learn more about what our experts can do for you."
+98,98.0, What are the different data models that have emerged throughout the history of databases?,"
+Database technologies have undergone several generations of evolution, right from flat-file systems to relational databases to schemaless databases. Some people might say that traditional relational databases are a thing of the past, but that is not true for all the scenarios. Changing requirements and evolution of the internet has meant that new types of databases have emerged, but most have specific use cases, which makes it difficult to decide on which database should be used when. At the same time, different types of data models have emerged throughout the history of databases but only Relational and NoSQL models have prevailed.
+"
+99,99.0, What challenges do you face when dealing with complex SQL Server queries?,"
+Have you ever encountered SQL Server code with more than 50 joins in a query? Have you ever seen code that retrieves millions of records SQL Server to the Web Server just to return one record to the User Interface? If yes, that's great. This is our daily job.
+"
+100,100.0, What are the four relational databases that have consistently ranked highly in research studies?,"
+Did you know PostGres is the fastest growing relational database that is not only free and open source, but rivals the performance of paid RDBMS databases like Oracle and SQL Server? It is no surprise that PostGres has consistently ranked as one of the top four relational databases by multiple credible research studies comparing database engines.
+"
+101,101.0, What is the difference between relational databases and NoSQL databases?,"
+Did you know relational databases can scale up, but have a hard time scaling out? NoSQL databases, on the other hand, are meant to scale out with commodity-grade hardware. Many organizations prefer using NoSQL over SQL databases as it offers a great set of features. There are different types of NoSQL databases available including Key-Value Store, Document Databases, Column-Family Databases, Graph Databases and Full-Text Search Engine Databases.
+"
+102,102.0,"
+What are some of the largest production deployments of Cassandra?","
+Did you know there are more than 1500 companies using Cassandra to handle huge volumes of data? Did you know that some of the largest production deployments include Apple's, with over 75,000 nodes storing over 10 PB of data, Netflix (2,500 nodes, 420 TB, over 1 trillion requests per day), Chinese search engine Easou (270 nodes, 300 TB, over 800 million requests per day), and eBay (over 100 nodes, 250 TB)?
+"
+103,103.0, What are the benefits of having a caching strategy for your applications?,"
+Do you have a good caching strategy for your applications? Have you felt the pain of sticky sessions? Have you had a caching strategy that didn't work for you? Do you need a caching strategy that scales seamlessly with the least amount of effort? If the answer to any of these questions is a ""yes,"" the good news is that you are in the right place.
+"
+104,104.0, Is there a way to scale data in memory while maintaining atomic transactions and fast processing times?,"
+Do you face problems while scaling data in memory? Are you facing slow processing times? Do you want scalability and as well as atomic transactions? Do your machine learning models require a lot of time for training and production?
+"
+105,105.0," What are the key features of Cosmos DB that make it an ideal choice for scalability, global distribution, and multi-model database technology?","
+The evolution of database technologies has been exceptional. Right from the first pre-stage flat-file systems to relational and object-relational databases to NoSQL databases, database technology has gone through several generations and its history has spread over more than 50 years now. A time has come when database technology has taken the next step forward to become more scalable, globally distributed and multi-model. Welcome to the new world of Cosmos DB!
+"
+106,106.0, What experience do your team members have working with Microsoft and other open source technologies?,"
+Have you worked with multi-billion dollar consulting and recruiting companies? If yes, we are sure we can provide more quality services at a much more affordable rates. We have been fortunate to work directly with Microsoft product teams for many years. Our team includes Microsoft awarded Most Valuable Professionals, Azure Insiders, Docker Insiders, ASP.NET Insiders, Web API Advisors, Cosmos DB Insiders as well as experts in other Microsoft and notable open source technologies.
+"
+107,107.0, What are the benefits of using Elasticsearch for web applications?,"
+Search is one of the most important tools in any web application. Having a robust and fool-proof search system can boost your business growth in many ways. One such technology that empowers search is called Elasticsearch. Unlike traditional RDBMS, Elasticsearch is designed to allow full-text searching. It allows you to create your own search-engine that is fast, powerful and scalable. In addition to web searches, Elasticsearch is also used for log analysis and big data analytics.
+"
+108,108.0, What benefits does a robust search provide to Amazon?,"
+Search is one of the most important aspects in any application. Could you imagine Amazon, one of the world's largest e-commerce websites, without a search functionality? It would be nearly impossible to find products if we had to look for them manually. A robust search in this case is the key towards best user experience, increased customer traffic, growth in sales and generation of customer data, which is invaluable for such a big organization.
+"
+109,109.0, What strategies do companies use to analyze and understand large amounts of data?,"
+With every passing second, the amount of data shared and transferred between humans is unimaginable. To manage, analyze, make predictions and decisions using that data is a daunting task. With data being a critical asset, companies today strive to understand the latest market trends, customer preferences and other requirements, thus making understanding large amount of data imperative.
+"
+110,110.0,"
+What are the advantages of using Apache™ Hadoop as a Big Data technology?","
+Cazton has been a pioneer in Big Data Consulting and one popular technology that powers Big Data is Apache™ Hadoop. Hadoop is a highly scalable open-source framework written in Java, which allows processing and storage of terabytes or even petabytes of structured and unstructured complex data (Big Data) across clusters of computers. Its unique storage mechanism over distributed file system (HDFS) maps data wherever it is located on a cluster. The speciality of Hadoop is that it can scale from one server to hundreds of servers and can still perform well. It is fast, flexible and cost-effective as compared to traditional storage systems.
+"
+111,111.0, What are the benefits of having real-time insights about active transactions?,"
+Imagine a process which converts unstructured, unreadable pieces of information into something that is extremely valuable for your organization? information that gives you insights about your business, your products, customers and their preferences. Now imagine getting those insights in real time! We are talking about a process that gives you instant information about an active transaction. Such information is always valuable, isn't it
+"
+112,112.0, What makes Spark successful in comparison to Hadoop's MapReduce system?,"
+Spark is an open-source, lightning fast, cluster computing framework that provides a fast and powerful engine for large-scale data (Big Data) processing. It runs programs up to 100x faster in-memory and 10x faster on disk when compared to Hadoop’s MapReduce system. The reason for Spark’s success is its ability to process data in-memory (using RAM) that allows faster retrieval of data as compared to querying and searching on disk.
+"
+113,113.0, What advantages does Spark offer when it comes to large scale data processing and Big Data analytics?,"
+Over the years, Spark has seen great acceptance in the technology industry. When it comes to large scale data processing or Big Data analytics, Spark has gained a lot of attention due to its lightning fast processing speed, batch and stream data processing, support for a variety of data sources and easy to integrate with applications written in C#, Java, Scala, Python and R.
+"
+114,114.0, What type of cloud services does Cazton provide?,"Cazton offers expert consulting, training and recruiting services for different cloud frameworks like Amazon AWS, Microsoft Azure, Google Cloud, Oracle Cloud, Alibaba Cloud, IBM Cloud, Pivotal Cloud Foundry, VMware vCloud, just to name a few. Our cloud experts can help you design and build your cloud infrastructure and identify the best way to manage your cloud services. Our experts have years of experience working with various cloud providers and can help right from setting up your cloud infrastructure to developing high end scalable cloud solutions. Contact us now to learn more about our cloud services."
+115,115.0, What are the Gartner forecasts for 2022 regarding the cloud services market?,"
+Industry analyst firm Gartner forecasts for 2022 predict that the cloud services market in platform-as-a-service (PaaS) is expected to reach $72 billion, infrastructure-as-a-service (IaaS) is expected to reach $80.9 billion, and software-as-a-service (SaaS) will grow to a whopping $140.6 billion.
+"
+116,116.0, What are the three types of cloud services typically offered by cloud computing providers?,"
+Many startups and mid-to-big size organizations tend to move towards cloud computing for their application or infrastructure deployment. Companies like Google, Amazon and Microsoft provide cloud computing platforms and services with a wide range of benefits. Usually there are three types of cloud services typically known as Software as a Service or SAAS, Infrastructure as a Service or IAAS and Platform as a Service or PAAS. Services like Microsoft's Azure and Amazon's AWS are the top cloud services that companies prefer to use.
+"
+117,117.0, How have cloud computing services been adopted by the industry?,"
+Cloud computing services have seen rapid adoption in the industry. Many companies have started migrating their applications and services into the cloud. The industry trend is shifting rapidly towards cloud services. Many enterprises are already embracing multi and hybrid cloud strategies.
+"
+118,118.0, What advantages does Snowflake offer compared to other cloud platforms?,"
+As the demand for cloud computing continues to grow, many enterprises and mid-to-small size organizations continue to embrace services provided by the public and private cloud platforms. One such platform that offers the flexibility of big data platforms and the elasticity of the cloud combined with the power of data warehousing is Snowflake.
+"
+119,119.0, What is DevOps and how does it enable digital transformation of a company?,"
+DevOps is no longer a buzzword. It’s a combination of best practices, philosophies and tools that enable an organization to speedup software application delivery and you should be using it. In short, DevOps enables digital transformation of a company.
+"
+120,120.0, What are the benefits of transitioning from monolith apps to services?,"
+Transitioning from monolith apps to services was a logical progression. In order to have services or APIs that could communicate with external as well as internal systems, it made sense to take a particular component of the system and convert it into services.
+"
+121,121.0, How can teams effectively balance different preferences in Enterprise software development?,"
+In Enterprise software development we have a lot of challenges on a daily basis. We have different team members who have different strengths. UI developers might want to work on a Mac, while the backend developers might like to work in a Windows environment.
+"
+122,122.0, What led Google to open source Kubernetes after 15 years of internal use?,"
+Google used Kubernetes internally for about 15 years of experience before finally open sourcing it. As we can imagine Google probably has the highest production workload given that Google.com and Youtube.com are the two top websites in the world.
+"
+123,123.0, What advancements in technology have been made since the introduction of IBM's first mainframe computer?,"
+The evolution of the software and software industry has been remarkable over the years. From the mid 1900's when the first electronic computer originated to today where we have control over almost anything at the tips of our fingers, this journey has completely changed the world we live in. The journey, which began with IBM's first mainframe computer to Apple's iPhone to Artificial Intelligent machines, shows how technology is a perfect blend of great ideas and innovation. The goal was to achieve more sophistication and provide a better user experience. Along with this technical advancement, there were various software development methodologies and practices that evolved to bring in more sophistication. Today in this article, we take a look at one such evolutionary methodology called Agile that changed the way software is created.
+"
+124,124.0, What are the two data models that have been most widely used throughout the history of databases?,"
+Database technologies have undergone several generations of evolution, right from flat-file systems to relational databases to schemaless databases. Some people might say that traditional relational databases are a thing of the past, but that is not true for all the scenarios. Changing requirements and evolution of the internet has meant that new types of databases have emerged, but most have specific use cases, which makes it difficult to decide on which database should be used when. At the same time, different types of data models have emerged throughout the history of databases but only Relational and NoSQL models have prevailed.
+"
+125,125.0, What qualifications does your team have with Microsoft products?,"
+Have you worked with multi-billion dollar consulting and recruiting companies? If yes, we are sure we can provide more quality services at a much more affordable rates. We have been fortunate to work directly with Microsoft product teams for many years. Our team includes Microsoft awarded Most Valuable Professionals, Azure Insiders, Docker Insiders, ASP.NET Insiders, Web API Advisors, Cosmos DB Insiders as well as experts in other Microsoft and notable open source technologies.
+"
+126,126.0, What kind of expertise does Cazton offer to its clients regarding DevOps?,"Cazton is composed of technical professionals with expertise gained all over the world and in all fields of the tech industry and we put this expertise to work for you. We help clients not only with the understanding the benefits of DevOps, but also with the right way of implementing it. We focus on making sure that DevOps is embedded in the DNA of the client team. Contact us now to learn more about our DevOps services."
+127,127.0, What benefits does DevOps offer to companies to enable digital transformation?,"
+DevOps is no longer a buzzword. It’s a combination of best practices, philosophies and tools that enable an organization to speedup software application delivery and you should be using it. In short, DevOps enables digital transformation of a company.
+"
+128,128.0,"
+What services does Cazton provide for companies using Terraform?","
+Terraform is the most popular infrastructure-as-code (IaC) tool that allows us to define resources for public-cloud, private-cloud, multi-cloud on-premises and PaaS and SaaS services using configuration files that are easy to read, version, reuse, and share. At Cazton, we help Fortune 500, large and mid-size companies with Terraform development, multi-cloud automation, deployment, consulting, recruiting services and hands-on training services.
+"
+129,129.0, What were the benefits of transitioning from monolith apps to services?,"
+Transitioning from monolith apps to services was a logical progression. In order to have services or APIs that could communicate with external as well as internal systems, it made sense to take a particular component of the system and convert it into services.
+"
+130,130.0, How long did Google use Kubernetes internally before open sourcing it?,"
+Google used Kubernetes internally for about 15 years of experience before finally open sourcing it. As we can imagine Google probably has the highest production workload given that Google.com and Youtube.com are the two top websites in the world.
+"
+131,131.0, How can teams with different strengths effectively collaborate in enterprise software development?,"
+In Enterprise software development we have a lot of challenges on a daily basis. We have different team members who have different strengths. UI developers might want to work on a Mac, while the backend developers might like to work in a Windows environment.
+"
+132,132.0, What benefits does the Agile methodology offer compared to other software development methodologies?,"
+The evolution of the software and software industry has been remarkable over the years. From the mid 1900's when the first electronic computer originated to today where we have control over almost anything at the tips of our fingers, this journey has completely changed the world we live in. The journey, which began with IBM's first mainframe computer to Apple's iPhone to Artificial Intelligent machines, shows how technology is a perfect blend of great ideas and innovation. The goal was to achieve more sophistication and provide a better user experience. Along with this technical advancement, there were various software development methodologies and practices that evolved to bring in more sophistication. Today in this article, we take a look at one such evolutionary methodology called Agile that changed the way software is created.
+"
+133,133.0, What are the three types of cloud services typically known as?,"
+Many startups and mid-to-big size organizations tend to move towards cloud computing for their application or infrastructure deployment. Companies like Google, Amazon and Microsoft provide cloud computing platforms and services with a wide range of benefits. Usually there are three types of cloud services typically known as Software as a Service or SAAS, Infrastructure as a Service or IAAS and Platform as a Service or PAAS. Services like Microsoft's Azure and Amazon's AWS are the top cloud services that companies prefer to use.
+"
+134,134.0, What criteria should be considered when choosing a search engine?,"
+How do you decide which search engine to pick? Do you look which languages it supports, compatibility with devices or the ease of use? How does a search engine work? Can a search engine be more than a full-text search? Would you like to get more information and analytics out of your mammoth size data?
+"
+135,135.0, What strategies do companies use to understand large amounts of data?,"
+With every passing second, the amount of data shared and transferred between humans is unimaginable. To manage, analyze, make predictions and decisions using that data is a daunting task. With data being a critical asset, companies today strive to understand the latest market trends, customer preferences and other requirements, thus making understanding large amount of data imperative.
+"
+136,136.0, What projects has the company worked on?,"
+Our CEO, Chander Dhall, became fascinated with machine learning over a decade ago. Having a masters in computer science, he has always kept up with academia even though the company primarily works on projects for mid and large size Fortune 500 corporations. Having been awarded by both Microsoft (Microsoft Most Valuable Professional for close to a decade) and Google (Google Developer Expert), he has been fortunate to interact and share knowledge with the ones who create these technologies.
+"
+137,137.0, What Microsoft and open source technologies does your team specialize in?,"
+Have you worked with multi-billion dollar consulting and recruiting companies? If yes, we are sure we can provide more quality services at a much more affordable rates. We have been fortunate to work directly with Microsoft product teams for many years. Our team includes Microsoft awarded Most Valuable Professionals, Azure Insiders, Docker Insiders, ASP.NET Insiders, Web API Advisors, Cosmos DB Insiders as well as experts in other Microsoft and notable open source technologies.
+"
+138,138.0, What are the key considerations for software architecture?,"
+The term architecture generally means the practice of designing or building something. Software architecture is the process of taking operational and technical requirements, and designing a solution that optimizes things important to the system like quality, performance, security, and maintainability. If we envision what is needed to build software, it is similar to the process of constructing a building. In the latter, architects first start by selecting a site. It is then cleared by creating a solid foundation. Architects and workers then erect the building's core structure, build the floors, level by level; interconnect the entire building with wires and plumbing, and finally finish off the interior and exterior of the building.
+"
+139,139.0,"
+What technologies are being adopted in industries such as banking, investment services, education, healthcare, and insurance?","
+Since the evolution of a wide variety of devices, the volume of data being captured has grown. The IoT is emerging as a key enabler of our digital future, and global spending on IoT and Smart devices will increase tremendously in the next few years. There has been a widespread adoption of different types of technologies in industries like banking and investment services, education, healthcare, insurance, and many others.
+"
+140,140.0, What experience does Cazton's team of Enterprise Search experts have?,"At Cazton, we have Enterprise Search experts who have years of experience working with many different enterpise search technologies including but not limited to Apache Solr, Lucidworks Fusion, ElasticSearch, ELK Stack. Our expert team of Architects, Consultants and Developers can build custom applications and consult you with any scalability issues, explain hardware requirements and offer best practices and architectural design patterns that suit your application requirements. Our experts have worked on projects with terabytes of data that are scaled across several  clusters and helped many customers develop Solr/ElasticSearch integrated applications that offer great performance, high scalability, availability and fault tolerance."
+141,141.0," What criteria do you consider when choosing a search engine, and what features do they offer?","
+How do you decide which search engine to pick? Do you look which languages it supports, compatibility with devices or the ease of use? How does a search engine work? Can a search engine be more than a full-text search? Would you like to get more information and analytics out of your mammoth size data?
+"
+142,142.0, What role does a robust search play in providing a good user experience on e-commerce websites?,"
+Search is one of the most important aspects in any application. Could you imagine Amazon, one of the world's largest e-commerce websites, without a search functionality? It would be nearly impossible to find products if we had to look for them manually. A robust search in this case is the key towards best user experience, increased customer traffic, growth in sales and generation of customer data, which is invaluable for such a big organization.
+"
+143,143.0, What advantages does Elasticsearch offer over traditional RDBMS?,"
+Search is one of the most important tools in any web application. Having a robust and fool-proof search system can boost your business growth in many ways. One such technology that empowers search is called Elasticsearch. Unlike traditional RDBMS, Elasticsearch is designed to allow full-text searching. It allows you to create your own search-engine that is fast, powerful and scalable. In addition to web searches, Elasticsearch is also used for log analysis and big data analytics.
+"
+144,144.0, How can I improve scalability and speed for my data processing and machine learning tasks?,"
+Do you face problems while scaling data in memory? Are you facing slow processing times? Do you want scalability and as well as atomic transactions? Do your machine learning models require a lot of time for training and production?
+"
+145,145.0, What are the benefits of having a good caching strategy for applications?,"
+Do you have a good caching strategy for your applications? Have you felt the pain of sticky sessions? Have you had a caching strategy that didn't work for you? Do you need a caching strategy that scales seamlessly with the least amount of effort? If the answer to any of these questions is a ""yes,"" the good news is that you are in the right place.
+"
+146,146.0, What are the different data models that have emerged throughout the history of databases?,"
+Database technologies have undergone several generations of evolution, right from flat-file systems to relational databases to schemaless databases. Some people might say that traditional relational databases are a thing of the past, but that is not true for all the scenarios. Changing requirements and evolution of the internet has meant that new types of databases have emerged, but most have specific use cases, which makes it difficult to decide on which database should be used when. At the same time, different types of data models have emerged throughout the history of databases but only Relational and NoSQL models have prevailed.
+"
+147,147.0, What is the typical job of someone who works with SQL Server code?,"
+Have you ever encountered SQL Server code with more than 50 joins in a query? Have you ever seen code that retrieves millions of records SQL Server to the Web Server just to return one record to the User Interface? If yes, that's great. This is our daily job.
+"
+148,148.0,"
+What research studies have consistently ranked PostGres as one of the top four relational databases?","
+Did you know PostGres is the fastest growing relational database that is not only free and open source, but rivals the performance of paid RDBMS databases like Oracle and SQL Server? It is no surprise that PostGres has consistently ranked as one of the top four relational databases by multiple credible research studies comparing database engines.
+"
+149,149.0, What are the different types of NoSQL databases?,"
+Did you know relational databases can scale up, but have a hard time scaling out? NoSQL databases, on the other hand, are meant to scale out with commodity-grade hardware. Many organizations prefer using NoSQL over SQL databases as it offers a great set of features. There are different types of NoSQL databases available including Key-Value Store, Document Databases, Column-Family Databases, Graph Databases and Full-Text Search Engine Databases.
+"
+150,150.0, What are the features of Cosmos DB that make it the next step forward in database technology?,"
+The evolution of database technologies has been exceptional. Right from the first pre-stage flat-file systems to relational and object-relational databases to NoSQL databases, database technology has gone through several generations and its history has spread over more than 50 years now. A time has come when database technology has taken the next step forward to become more scalable, globally distributed and multi-model. Welcome to the new world of Cosmos DB!
+"
+151,151.0, What are some of the largest production deployments of Cassandra?,"
+Did you know there are more than 1500 companies using Cassandra to handle huge volumes of data? Did you know that some of the largest production deployments include Apple's, with over 75,000 nodes storing over 10 PB of data, Netflix (2,500 nodes, 420 TB, over 1 trillion requests per day), Chinese search engine Easou (270 nodes, 300 TB, over 800 million requests per day), and eBay (over 100 nodes, 250 TB)?
+"
+152,152.0, What are the advantages of using Spark over Hadoop's MapReduce system?,"
+Spark is an open-source, lightning fast, cluster computing framework that provides a fast and powerful engine for large-scale data (Big Data) processing. It runs programs up to 100x faster in-memory and 10x faster on disk when compared to Hadoop’s MapReduce system. The reason for Spark’s success is its ability to process data in-memory (using RAM) that allows faster retrieval of data as compared to querying and searching on disk.
+"
+153,153.0, What advantages does Spark provide for large scale data processing and Big Data analytics?,"
+Over the years, Spark has seen great acceptance in the technology industry. When it comes to large scale data processing or Big Data analytics, Spark has gained a lot of attention due to its lightning fast processing speed, batch and stream data processing, support for a variety of data sources and easy to integrate with applications written in C#, Java, Scala, Python and R.
+"
+154,154.0," What techniques are used to manage, analyze, make predictions, and decisions using large amounts of data?","
+With every passing second, the amount of data shared and transferred between humans is unimaginable. To manage, analyze, make predictions and decisions using that data is a daunting task. With data being a critical asset, companies today strive to understand the latest market trends, customer preferences and other requirements, thus making understanding large amount of data imperative.
+"
+155,155.0, What are the benefits of using a process to convert unstructured information into valuable insights in real time?,"
+Imagine a process which converts unstructured, unreadable pieces of information into something that is extremely valuable for your organization? information that gives you insights about your business, your products, customers and their preferences. Now imagine getting those insights in real time! We are talking about a process that gives you instant information about an active transaction. Such information is always valuable, isn't it
+"
+156,156.0, What qualifications do Cazton's enterprise-level practitioners possess?,"At Cazton, we have experts who have decades of real-world hands-on experience of implementing enterprise-level software architectures and design patterns in a wide variety of software projects that are modular, maintainable, testable and futuristic. Our enterprise-level practice is led by a professionals who have been former Microsoft and Google employees, former IBMers and internationally-acclaimed speakers. Contact us now to learn more about our enterprise architecture and development services."
+157,157.0, What are the important factors to consider when designing software architecture?,"
+The term architecture generally means the practice of designing or building something. Software architecture is the process of taking operational and technical requirements, and designing a solution that optimizes things important to the system like quality, performance, security, and maintainability. If we envision what is needed to build software, it is similar to the process of constructing a building. In the latter, architects first start by selecting a site. It is then cleared by creating a solid foundation. Architects and workers then erect the building's core structure, build the floors, level by level; interconnect the entire building with wires and plumbing, and finally finish off the interior and exterior of the building.
+"
+158,158.0, What types of technologies are being adopted in different industries?,"
+Since the evolution of a wide variety of devices, the volume of data being captured has grown. The IoT is emerging as a key enabler of our digital future, and global spending on IoT and Smart devices will increase tremendously in the next few years. There has been a widespread adoption of different types of technologies in industries like banking and investment services, education, healthcare, insurance, and many others.
+"
+159,159.0, What were the benefits of transitioning from monolith apps to services?,"
+Transitioning from monolith apps to services was a logical progression. In order to have services or APIs that could communicate with external as well as internal systems, it made sense to take a particular component of the system and convert it into services.
+"
+160,160.0, What led Google to open source Kubernetes after 15 years of internal use?,"
+Google used Kubernetes internally for about 15 years of experience before finally open sourcing it. As we can imagine Google probably has the highest production workload given that Google.com and Youtube.com are the two top websites in the world.
+"
+161,161.0, What challenges do enterprise software developers face on a daily basis?,"
+In Enterprise software development we have a lot of challenges on a daily basis. We have different team members who have different strengths. UI developers might want to work on a Mac, while the backend developers might like to work in a Windows environment.
+"
+162,162.0, What are the benefits of using Node.js as a web development framework?,"
+Did you know Node.js, a popular open-source web development framework, is one of the most adopted JavaScript runtimes? Did you know that Node.js runs the V8 JavaScript engine which is the core of Google Chrome? Node.js is async-first which makes it achieve hyper-scale with commodity level machines.
+"
+163,163.0, What advantages does .NET Core offer compared to the .NET Framework?,"
+.NET Core is a fresh new software development framework that allows developers to create next generation apps with ease. It is Microsoft’s latest software development framework, which is cloud-enabled, cross-platform, modular and fast. It is a complete rewrite of the existing .NET framework. Unlike the .NET Framework, .NET Core is fully open-source, which means that the features of this framework directly reflect the skills and desires of .NET developers and the community.
+"
+164,164.0, What type of applications and solutions can be developed using Microsoft .NET?,"
+Microsoft .NET is one of the most preferred and widely used technologies in the software development industry. It is a set of technologies that work together to solve different business problems. Over the years, this technological ecosystem has evolved extensively. It provides rich set of tools, libraries and APIs for developing different types of applications and solutions for Web, Mobile, Cloud, Desktop, Gaming, IOT, Mixed Reality and much more.
+"
+165,165.0,"
+What versions of Angular are currently supported?","
+Did you know Angular is one of the fastest Single Page App (SPA) frameworks? Did you know the Angular team has kept its promise of releasing a new version every six months? With enterprise clients upgrading from AngularJS to Angular recently, it’s been a great time for Cazton to help clients not only upgrade brownfield applications from AngularJS to Angular, but also develop greenfield applications on Angular (versions 2, 4, 5, 6 and now 7).
+"
+166,166.0, What advantages does Blazor offer over traditional JavaScript frameworks?,"
+Are you tired of maintaining JavaScript code? Do you have performance issues with JavaScript? Blazor may be the answer to your problems. Did you know Blazor is based on existing web technologies like HTML and CSS, but allows using C# and Razor syntax instead of JavaScript to build composable web UIs? Welcome Blazor, the latest client-side framework from Microsoft that lets you run your client-side C# code directly in the browser.
+"
+167,167.0, What advantages does React offer in terms of maintainability and extensibility of websites?,"
+Many times developers need to rewrite and change code when adding new components or features. React, with its component-based nature, makes this easy and encourages code reusability and hence makes websites much more maintainable and extensible. At Cazton, our team of JavaScript experts are well-versed with a wide variety of JavaScript frameworks including React and have years hands on experience building tools, libraries, applications using various JavaScript frameworks. 
+"
+168,168.0, What services does your team provide?,"
+Have you worked with multi-billion dollar consulting and recruiting companies? If yes, we are sure we can provide more quality services at a much more affordable rates. We have been fortunate to work directly with Microsoft product teams for many years. Our team includes Microsoft awarded Most Valuable Professionals, Azure Insiders, Docker Insiders, ASP.NET Insiders, Web API Advisors, Cosmos DB Insiders as well as experts in other Microsoft and notable open source technologies.
+"
+169,169.0, What technologies has Microsoft contributed to the Web and open source?,"
+The Web has seen significant transformation over the years. Beginning with the first static website, which released almost three decades ago to today when sophisticated technologies display real-time information, the transformation has been spectacular. Microsoft’s contribution to Web and open source has been especially noteworthy. This company has been one of the pioneers in providing great web development technologies through .NET. Technologies like ASP.NET Web Forms, ASP.NET MVC, SignalR, Web API, Entity Framework, SQL Server and their latest ASP.NET Core that supports .NET Core.
+"
+170,170.0, What are some of the ways JavaScript has been used in the tech industry?,"
+It is no secret JavaScript has become insanely popular amongst developers. From backend engineering to building hybrid mobile apps and constructing cloud solutions, it has made its massive presence felt everywhere. Even the fields of machine learning and robotics started adopting the versatile JavaScript.
+"
+171,171.0, What are some of the problems that mobile app developers have faced in the past?,"
+For the longest time, mobile application developers have had to learn and write code separately for the two mobile operating systems. To make an app available to everyone, you would have to write all the code twice: for iOS in Swift and for Android in Java. Mobile app developers have long been plagued by the problem of inefficiency, typically slow cycles of development, slow loading of applications and overall low productivity.
+"
+172,172.0,"
+What do the acronyms DRY and Electron stand for in the context of software development?","
+One of the principles of software development is DRY, which stands for “Do not Repeat Yourself.” Yet, ironically, developers needed to write logic again and again for various different platforms. React Native has now allowed the logic layer to be used amongst Android and iOS mobile applications. Electron is another pivotal achievement in that direction.
+"
+173,173.0, What strategies and practices do organizations use to achieve sustained growth?,"
+Growth is the most important factor for any organization. To have a sustained growth, the organization has to follow certain rules and regulations, apply strategies and practices, and depend on technologies that help them manage their customers and customer information. By applying various logical, methodical and well-organized strategies, organizations try to convert high prospects and leads into loyal customers.
+"
+174,174.0, What services does Cazton offer to help integrate and adapt blockchain into existing networks?,"At Cazton, we provide first class Blockchain consulting and Blockchain training services. Our team of Blockchain Specialists, Blockchain Consultants and Developers can assess your business requirements and consult if blockchain suits as the perfect solution. While our experts help you develop the correct blockchain solution, we also help you adapt and integrate blockchain into your existing network, develop and deploy smart contracts, token creation, ICO auditing, perform smart contract audits, public and private blockchain creation, wallet security solutions, wallet integration, and much more. Contact us now to learn more about our cloud services."
+175,175.0, What services does Cazton offer related to Blockchain?,"
+Cazton offers first class Blockchain consulting and Blockchain training services where we assess your business requirements and consult if blockchain suits as the perfect solution. Our Blockchain Specialists, Blockchain Consultants and Developers can help you adapt and integrate blockchain, develop and deploy smart contracts, token creation, ICO auditing, perform smart contract audits, public and private blockchain creation, wallet security solutions, wallet integration, and much more.
+"
+176,176.0, What is Chander Dhall's background in computer science?,"
+Our CEO, Chander Dhall, became fascinated with machine learning over a decade ago. Having a masters in computer science, he has always kept up with academia even though the company primarily works on projects for mid and large size Fortune 500 corporations. Having been awarded by both Microsoft (Microsoft Most Valuable Professional for close to a decade) and Google (Google Developer Expert), he has been fortunate to interact and share knowledge with the ones who create these technologies.
+"
+177,177.0, What inspired Chander Dhall to pursue a career in machine learning?,"
+Our CEO, Chander Dhall, became fascinated with machine learning over a decade ago. Having a masters in computer science, he has always kept up with academia even though the company primarily works on projects for mid and large size Fortune 500 corporations.
+"
+178,178.0, What advantages does Spark have over Hadoop's MapReduce system?,"
+Spark is an open-source, lightning fast, cluster computing framework that provides a fast and powerful engine for large-scale data (Big Data) processing. It runs programs up to 100x faster in-memory and 10x faster on disk when compared to Hadoop’s MapReduce system. The reason for Spark’s success is its ability to process data in-memory (using RAM) that allows faster retrieval of data as compared to querying and searching on disk.
+"
+179,179.0, What are the advantages of using Spark for Big Data analytics?,"
+Over the years, Spark has seen great acceptance in the technology industry. When it comes to large scale data processing or Big Data analytics, Spark has gained a lot of attention due to its lightning fast processing speed, batch and stream data processing, support for a variety of data sources and easy to integrate with applications written in C#, Java, Scala, Python and R.
+"
+180,180.0, What challenges do companies face when trying to understand large amounts of data?,"
+With every passing second, the amount of data shared and transferred between humans is unimaginable. To manage, analyze, make predictions and decisions using that data is a daunting task. With data being a critical asset, companies today strive to understand the latest market trends, customer preferences and other requirements, thus making understanding large amount of data imperative.
+"
+181,181.0, What are the advantages of using Apache™ Hadoop for Big Data processing?,"
+Cazton has been a pioneer in Big Data Consulting and one popular technology that powers Big Data is Apache™ Hadoop. Hadoop is a highly scalable open-source framework written in Java, which allows processing and storage of terabytes or even petabytes of structured and unstructured complex data (Big Data) across clusters of computers. Its unique storage mechanism over distributed file system (HDFS) maps data wherever it is located on a cluster. The speciality of Hadoop is that it can scale from one server to hundreds of servers and can still perform well. It is fast, flexible and cost-effective as compared to traditional storage systems.
+"
+182,182.0, What is the value of gaining insights from unstructured and unreadable pieces of information in real time?,"
+Imagine a process which converts unstructured, unreadable pieces of information into something that is extremely valuable for your organization? information that gives you insights about your business, your products, customers and their preferences. Now imagine getting those insights in real time! We are talking about a process that gives you instant information about an active transaction. Such information is always valuable, isn't it
+"
+183,183.0," Are you looking for a solution that enables scalability, atomic transactions, and faster processing times for machine learning models?","
+Do you face problems while scaling data in memory? Are you facing slow processing times? Do you want scalability and as well as atomic transactions? Do your machine learning models require a lot of time for training and production?
+"
+184,184.0, What companies are currently using Cassandra to handle large volumes of data?,"
+Did you know there are more than 1500 companies using Cassandra to handle huge volumes of data? Did you know that some of the largest production deployments include Apple's, with over 75,000 nodes storing over 10 PB of data, Netflix (2,500 nodes, 420 TB, over 1 trillion requests per day), Chinese search engine Easou (270 nodes, 300 TB, over 800 million requests per day), and eBay (over 100 nodes, 250 TB)?
+"
+185,185.0,"
+What are the challenges you face when writing SQL Server code with more than 50 joins in a query?","
+Have you ever encountered SQL Server code with more than 50 joins in a query? Have you ever seen code that retrieves millions of records SQL Server to the Web Server just to return one record to the User Interface? If yes, that's great. This is our daily job.
+"
+186,186.0,"
+What research studies have consistently ranked PostGres as one of the top four relational databases?","
+Did you know PostGres is the fastest growing relational database that is not only free and open source, but rivals the performance of paid RDBMS databases like Oracle and SQL Server? It is no surprise that PostGres has consistently ranked as one of the top four relational databases by multiple credible research studies comparing database engines.
+"
+187,187.0, What is the best caching strategy for applications that need to scale seamlessly?,"
+Do you have a good caching strategy for your applications? Have you felt the pain of sticky sessions? Have you had a caching strategy that didn't work for you? Do you need a caching strategy that scales seamlessly with the least amount of effort? If the answer to any of these questions is a ""yes,"" the good news is that you are in the right place.
+"
+188,188.0, What are the different types of databases and data models that have been used throughout the history of databases?,"
+Database technologies have undergone several generations of evolution, right from flat-file systems to relational databases to schemaless databases. Some people might say that traditional relational databases are a thing of the past, but that is not true for all the scenarios. Changing requirements and evolution of the internet has meant that new types of databases have emerged, but most have specific use cases, which makes it difficult to decide on which database should be used when. At the same time, different types of data models have emerged throughout the history of databases but only Relational and NoSQL models have prevailed.
+"
+189,189.0, What kind of experts does your team include?,"
+Have you worked with multi-billion dollar consulting and recruiting companies? If yes, we are sure we can provide more quality services at a much more affordable rates. We have been fortunate to work directly with Microsoft product teams for many years. Our team includes Microsoft awarded Most Valuable Professionals, Azure Insiders, Docker Insiders, ASP.NET Insiders, Web API Advisors, Cosmos DB Insiders as well as experts in other Microsoft and notable open source technologies.
+"
+190,, What best practices from a beginner to an advanced level will be covered in this workshop?,Are you building next-generation web apps? Do you want a framework that is faster than Node.js on I/O and computation both? Do you want scalability as well as performance? Everything you need to know about best practices from a beginner to an advanced level will be covered in this workshop.
+191,, What qualifications and experience do the experts on the team have in data science and machine learning?,"Our team consists of experts who not only have PhDs as well as masters’ degrees in data science and machine learning, they also have years of experience in the industry. That’s one reason our team has been working on serious machine learning projects long before any of our competitors. Machine learning projects require serious understanding of data."
+192,, What features of Spark does the Spark.NET Nuget package offer for .NET developers?,"Microsoft recently released Spark.NET, which is currently available as a Nuget package that runs not only on Windows, Linux, and macOS using .NET Core, or Windows using .NET Framework, but also on major cloud platforms. High- level Spark APIs that cover different features of Spark including Spark SQL, DataFrames, Streaming and MLLib are exposed for .NET developers."
+193,, What topics are covered in the microservices training offered by Cazton?,"Do you use the monolithic approach for developing your applications? Are you looking for more modularity and decentralization in your codebase? Have you heard companies like Amazon, Netflix and eBay have switched from a monolithic to microservices approach? Everything you need to know about microservices from a beginner to an advanced level will be covered in this training."
+194,, What topics will be covered in the in-depth hands-on training on Kubernetes?,"This is an in depth hands-on training on Kubernetes where you will learn about architectural design for deploying applications using Kubernetes, CI/CD Pipeline, using Kubernetes in the cloud, packaging and deploying applications in a Kubernetes Cluster and much more."
+195,, What topics are covered in the in-depth hands-on training on Docker?,"This is an in depth hands-on training on Docker where you will learn about Docker, Docker Compose, Containers and Virtualization, Image Repositories, Docker Compose Orchestration with VSCode Tasks, Optimized Multi-Stage Docker BuildsContinuous Deployment with Keel and WebHooks and much more."
+196,, What topics and skills are included in the Angular intensive training offered by Cazton?,"Angular is currently the hottest & most demanded JavaScript Framework in the industry. Looking at the ever-growing demand, we have brought this intensive training just for you. This course starts from scratch, and you neither need to know AngularJS nor Angular2. With complete hands-on session, you will master Angular right from the basics to advanced and build awesome, reactive web apps."
+197,," What topics are covered in the training about React and Redux, including React Native?","In this training, our expert React trainers will conduct a fully code-intensive training and take you from beginner to an advanced level React developer. We cover the most important topics about React and Redux, including React Native."
+198,, What features does Aurelia offer compared to other JavaScript frameworks?,"Aurelia is modern, forward-thinking, conventions-based, next-gen UI framework which leverages conventions over configuration. Compared to other JavaScript frameworks, coding with Aurelia is extremely simplified and it allows you to build UI that is maintainable, testable, and extensible. It supports latest JavaScript versions viz ES5, ES6, TypeScript and ES.Next unlike other frameworks in the market."
+199,, What topics are covered in the code-intensive training offered by Cazton?,"JavaScript continues to be the most prominent programming language in the Software Development industry. It is one of those languages that continue to evolve every year. With the release of every new EcmaScript version, JavaScript is taken to a different level. In this code-intensive training, you get the unique opportunity to learn JavaScipt and ES6 and beyond from our experts where we cover topics right from beginner to advanced."
+200,, What topics are covered in Cazton's intensive hands-on training for mastering VueJS?,"Cazton can help you and your team master VueJS by providing an intensive hands-on training covering from the basics to advanced level. By the end of this training, you will have the confidence to use this framework as an advanced Vue developer."
+201,, What does Cazton's intensive hands-on training cover that will help participants become an advanced AngularJS developer?,"Cazton can help you and your team master AngularJS by providing an intensive hands-on training covering from the basics to advanced level. By the end of this training, you will have the confidence to use this framework as an advanced AngularJS developer."
+202,, What topics are covered in the Cazton's AngularJS training?,"Cazton can help you and your team master AngularJS by providing an intensive hands-on training covering from the basics to advanced level. By the end of this training, you will have the confidence to use this framework as an advanced AngularJS developer."

@@ -1,0 +1,11 @@
+questions,answers,training
+What is microservice architecture?,"Microservice architecture consists of a collection of small, self-contained, autonomous services that encapsulate a single business capability.",microservices
+What are the characteristics of microservices?,"Microservices are very small, independent and separate code-bases that are self-deployable.",microservices
+What is the focus of this training?,The focus of this training is to provide a complete hands-on experience developing and deploying microservices.,microservices
+What topics will be covered in this training?,The training will cover everything from learning the basics to advanced topics and will provide an in-depth view of the various technologies used in microservice-based architectures.,microservices
+What are the advantages and disadvantages of microservices?,"The advantages of microservices include modularity, decentralization, and scalability, while the disadvantages include increased complexity and potential communication overhead.",microservices
+How do microservices communicate with each other?,"Microservices communicate with each other through various methods such as ESB, AMQP/Streams, and REST.",microservices
+What is the relationship between microservices and service-oriented architecture?,"Microservices and service-oriented architecture are related concepts, with microservices being a more granular and autonomous implementation of service-oriented architecture.",microservices
+How can microservices be developed for the cloud?,Microservices can be developed for the cloud using platforms like AWS and Azure.,microservices
+How can microservices be secured?,"Microservices can be secured using OAuth, OpenID, JSON WebTokens, and message routing with secure tokens.",microservices
+How can microservices be consumed from a client application?,Microservices can be consumed from a client application by following best practices and common principles.,microservices

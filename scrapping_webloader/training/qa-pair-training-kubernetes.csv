@@ -1,0 +1,11 @@
+questions,answers,training
+What is the topic of the training?,The topic of the training is Kubernetes.,kubernetes
+What are some of the topics covered in the training?,"Some of the topics covered in the training are Pods, ReplicaSets, StatefulSets, Deployments and Jobs, Services, Load Balancers and Ingress, Persistent Volumes, Kubectl and Kubedash, and Introduction to Helm Package Manager.",kubernetes
+What is the purpose of using Kubernetes?,The purpose of using Kubernetes is to deploy applications and manage containerized workloads.,kubernetes
+What is CI/CD Pipeline?,"CI/CD Pipeline stands for Continuous Integration/Continuous Deployment Pipeline, which is a set of processes and tools used to automate the building, testing, and deployment of applications.",kubernetes
+What is the role of Kubernetes in cloud computing?,Kubernetes is used in cloud computing to manage and orchestrate containers and containerized applications.,kubernetes
+What is Helm Package Manager used for?,Helm Package Manager is used to package and deploy applications into a Kubernetes cluster.,kubernetes
+What are some of the services provided by Kubernetes?,"Some of the services provided by Kubernetes are load balancing, scaling, and managing containerized applications.",kubernetes
+What is the role of Load Balancers and Ingress in Kubernetes?,Load Balancers and Ingress in Kubernetes are used to distribute network traffic and route requests to the appropriate services and pods.,kubernetes
+What is the importance of Persistent Volumes in Kubernetes?,Persistent Volumes in Kubernetes are important for storing and managing data that needs to persist beyond the lifecycle of a pod.,kubernetes
+What is Kubectl and Kubedash used for?,"Kubectl is a command-line tool used to interact with and manage Kubernetes clusters, and Kubedash is a dashboard for monitoring and managing Kubernetes clusters.",kubernetes
