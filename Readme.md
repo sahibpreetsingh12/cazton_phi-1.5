@@ -61,6 +61,24 @@
     
 
 
+## How to Replicate
+
+1. Data Creation (First step in our project was to scrape data from a website )
+
+    Run these files in particular order as mentioned below to get to `complete_data.csv`
+    Training_scrappper.py --> consulting_scrapper.py-->selenium_scrapping.ipynb -->final-dataset_creation_phi.ipynb
+
+    The End product will be `complete_data.csv`
+
+2. After fetching data I have uploaded the data to kaggle so that i can use that data for finetuning phi-1.5B model using kaggle notebooks.
+    2.1 This is the notebook for finetuning the LLM - https://www.kaggle.com/code/sahib12/finetune-phi-1-5/notebook
+
+3. For inference we have used this notebook - https://www.kaggle.com/sahib12/inference-phi-1-5
+
+4. The finetuned model was uploaded to hugging face - https://huggingface.co/Sahibsingh12/phi-1-5-finetuned-cazton_complete
+
+5. For inference we hosted our LLM on HF spaces - https://huggingface.co/spaces/Sahibsingh12/cazton-phi
+
 ### Files
 
 1. training_scrapper.py - This script uses selenium to scrape data from cazton.com/     trainings and once we have got the data using gpt-3.5-turbo-instruct we have generated appropriate question-answer pair for the text.
