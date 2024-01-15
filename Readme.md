@@ -71,6 +71,7 @@
     The End product will be `complete_data.csv`
 
 2. After fetching data I have uploaded the data to kaggle so that i can use that data for finetuning phi-1.5B model using kaggle notebooks.
+
     2.1 This is the notebook for finetuning the LLM - https://www.kaggle.com/code/sahib12/finetune-phi-1-5/notebook
 
 3. For inference we have used this notebook becasue kaggle provide free and more GPU than (colab) - https://www.kaggle.com/sahib12/inference-phi-1-5
