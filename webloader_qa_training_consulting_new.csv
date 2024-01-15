@@ -23,17 +23,18 @@
 38,Where can you find more information about VueJS training?,On the Cazton website: https://cazton.com/trainings/mastering-vuejs
 39,What does VueJS provide for creating single page applications?,"Core libraries and APIs that help create scalable, testable and maintainable single page applications"
 42,What will you learn in the Docker training?,"Architectural design for deploying applications using Docker, CI/CD Pipeline, using Docker in the cloud, packaging and deploying applications in a Docker Cluster, and much more"
-43,What is the source of the information for docker training?,https://cazton.com/trainings/docker
+43,What is the source of the information?,https://cazton.com/trainings/docker
 45,What are some topics covered in the Database Development section?,"Polyglot Persistence, SQL Server, PostGres, Azure Cosmos DB, MongoDB, Cassandra, Redis, Apache Ignite"
 46,What are some topics covered in the Docker Training section?,"Introduction to Docker, Docker Compose, Containers and Virtualization, Dockerfile, Docker Compose Orchestration with VSCode Tasks, Optimized Multi-Stage Docker Builds, Integrating docker image pushes into CI Builds, Continuous Deployment with Keel and WebHooks"
 47,What are some topics covered in the Big Data & AI section?,"AI Express PoC Service, OpenAI, AI Agents, OpenAI Case Studies, Azure OpenAI, ChatGPT for Business, Tech Debt Terminators, PyTorch, Microsoft Fabric, TensorFlow, Artificial Intelligence, Big Data, OpenAI vs CaztonAI, Databricks, Apache Spark, Hadoop & HDFS, Apache Kafka, Spark.NET"
 48,What are some topics covered in the Cloud & DevOps section?,"Amazon Web Services, Azure, Google Cloud Platform, Snowflake, DevOps, Microservices, Docker, Kubernetes, Terraform, Agile"
 52,Where can the training be conducted?,"US, Canada, UK, Belgium, Germany, Netherlands, India, and many other countries"
+54,What is the purpose of the training?,To provide complete hands-on training on technologies and help developers improve their skills
 55,What is the scope of the training?,Basics to advanced level hands-on training with a focus on code and concepts
-57,How can one request a customized training?,By contacting Cazton at info@cazton.com
+57,How can one request a customized training?,By contacting Cazton
 58,What is the contact information for Cazton?,"(512) 318-2336, info@cazton.com"
 60,Who designs the training and course materials for Aurelia?,Aurelia Core Team members
-61,What is the best way to learn Aurelia?,By developing an Aurelia app and this will be taught by our experts in Training for aurelia that we provide
+61,What is the best way to learn Aurelia?,By developing an Aurelia app
 64,What is the vision of Cazton?,To transform clients and their team by providing the best training experience
 65,What topics are covered in the Aurelia training?,"ES2015, ES2016 and Beyond, TypeScript, Package Managers, Task Runners, Transpilers, Survey of Front-End IDEs and Editors, Introducton to Jasmine, Using Karma, Using Protractor, The Modern Browser, Introduction to the Modern DOM, Web Components, Beyond the Browser, Getting Started with Aurelia & Aurelia Basics, Setting up Your Environment, Working with Package Managers & Module Loaders, Understanding Aurelia Startup & Configuration, Creating Components, Understanding Data Binding, Understanding Binding Behaviors and Observable Properties, Understanding Templating, Understanding Dependency Injection, Understanding Routing, Understanding Custom Elements, Understanding Custom Attributes, Custom Elements vs Custom Attributes, Understanding Dynamic UI Composition, HTTP and REST, Validation, Internationalization, Server-side Rendering, Understanding Aurelia’s Architecture (Templating, Binding, Routing, etc), Using 3rd Party Libraries & Services, Unit Testing View Models, Bundling, Application Deployment"
 66,What is Aurelia?,"A modern, forward-thinking, conventions-based, next-gen UI framework"
@@ -76,6 +77,7 @@
 109,What is the vision of Cazton's TypeScript Experts?,The vision of Cazton's TypeScript Experts is to provide the best technical training to their clients.
 110,What cities in the United States does Cazton provide Angular Consulting and Training Services in?,"Cazton provides Angular Consulting and Training Services in cities like Austin, Dallas, Houston, New York, New Jersey, Irvine, Los Angeles, Denver, Boulder, Charlotte, Atlanta, Orlando, Miami, San Antonio, San Diego, and others in the United States."
 111,What is the vision of Cazton's Angular Experts?,The vision of Cazton's Angular Experts is to transform clients and their teams by providing the best training experience.
+112,What types of training does Cazton provide?,"Cazton provides complete hands-on training on technologies of your choice, often including technology-specific learning, live-online training, on-site coaching, full-day and full-week workshops with a perfect blend of code and concepts."
 113,What countries does Cazton offer hands-on trainings in?,"Cazton offers hands-on trainings in the United States, Canada, UK, Belgium, Germany, Netherlands, India, and many other countries."
 114,What topics are covered in the Mastering Angular training?,"The topics covered in the Mastering Angular training include Intermediate Angular, Advanced Angular, and Beyond Angular."
 115,What is the level of prior knowledge required to start the Angular training?,No prior knowledge of AngularJS or Angular is required to start the Angular training.
@@ -406,7 +408,7 @@
 498,What are the responsibilities of automation experts in the AI project?,"Automation experts are responsible for automating processes related to the AI project, such as data collection, model training, and deployment. They also possess complementary skills necessary for success."
 499,What are the advantages of AI Express PoC for businesses?,"The advantages of AI Express PoC for businesses include rapid development and testing of AI proofs of concept, helping them stay ahead in the fast-paced tech industry."
 500,What does the video showcase about a chat bot?,"The video showcases a cutting-edge chat bot designed specifically for private enterprise data. It highlights the possibility of a human-like intelligent solution that is platform-agnostic, customizable, and prioritizes data privacy with added role-based security."
-501,What is the significance of 'Tech Debt Terminators' in optimizing AI project outcomes?,"Tech Debt Terminators' is another service offered by Cazton that, when combined with AI Express PoC, can provide a comprehensive solution for businesses looking to optimize their AI project outcomes."
+501,What is the significance of 'Tech Debt Terminators' in optimizing AI project outcomes?,"'Tech Debt Terminators' is another service offered by Cazton that, when combined with AI Express PoC, can provide a comprehensive solution for businesses looking to optimize their AI project outcomes."
 505,What is the topic of the text?,The topic of the text is autonomous agents driven by Large Language Models (LLMs).
 507,What are Large Language Models (LLMs)?,"Large Language Models (LLMs) are the driving force behind AI agents, enabling them to plan, remember, and solve complex tasks."
 512,What is the role of memory in autonomous agents?,Memory in autonomous agents is used to store and retrieve information.

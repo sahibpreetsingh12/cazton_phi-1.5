@@ -66,14 +66,14 @@
 1. Data Creation (First step in our project was to scrape data from a website )
 
     Run these files in particular order as mentioned below to get to `complete_data.csv`
-    Training_scrappper.py --> consulting_scrapper.py-->selenium_scrapping.ipynb -->final-dataset_creation_phi.ipynb
+    training_scrappper.py --> consulting_scrapper.py-->scrapping_webloader/selenium_scrapping.ipynb -->final-dataset_creation_phi.ipynb
 
     The End product will be `complete_data.csv`
 
 2. After fetching data I have uploaded the data to kaggle so that i can use that data for finetuning phi-1.5B model using kaggle notebooks.
     2.1 This is the notebook for finetuning the LLM - https://www.kaggle.com/code/sahib12/finetune-phi-1-5/notebook
 
-3. For inference we have used this notebook - https://www.kaggle.com/sahib12/inference-phi-1-5
+3. For inference we have used this notebook becasue kaggle provide free and more GPU than (colab) - https://www.kaggle.com/sahib12/inference-phi-1-5
 
 4. The finetuned model was uploaded to hugging face - https://huggingface.co/Sahibsingh12/phi-1-5-finetuned-cazton_complete
 
@@ -92,8 +92,7 @@
 4. All the other csv files are intermediatery and have been made while during the process. The final file is
     **complete_data.csv** that has all the instruction pairs required for finetuning.
     
-5. tester-dataset_creation_phi.ipynb - This file is used just to handle intermediatery file operatiosn and some data formatting
-    that was required. 
+5. final-dataset_creation_phi.ipynb - This file is used just to handle intermediatery file operatiosn and some data formatting that was required. 
 
 ## Inference and Fientuning:
 1.  For public inference i have uploaded the fine-tuned model on https://huggingface.co/spaces/Sahibsingh12/cazton-phi
