@@ -51,7 +51,7 @@ for URL in url_list:
     # Iterate through the <p> tags to check their classes
     for p_tag in p_tags:
 
-        text_of_p_tag = p_tag.get_text()  # Get the text inside the <p> tag
+        text_of_p_tag = p_tag.get_text()  # Get  the text inside the <p> tag
 
         template = """Frame the question based on the context below. If the
         question cannot be framed using the information provided answer
